@@ -1,0 +1,9 @@
+POWER BI DATA MODEL
+
+Candidates (fact-like application table)
+CandidateID, CandidateName, Gender, Education, ExperienceYears, City, JobRole, Source, Skills, ResumeScore, ApplicationDate, Status, Shortlisted, TimeToHireDays
+
+CandidateSkills (bridge/detail table)
+CandidateID, Skill, Status, JobRole
+
+Relationship: Candidates[CandidateID] 1 ---- * CandidateSkills[CandidateID]

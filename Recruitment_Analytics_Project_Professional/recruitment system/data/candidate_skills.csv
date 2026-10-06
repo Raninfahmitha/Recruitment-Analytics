@@ -1,0 +1,2481 @@
+CandidateID,Skill,Status,JobRole
+C0001,Excel,Interview,HR Analyst
+C0001,Python,Interview,HR Analyst
+C0001,Statistics,Interview,HR Analyst
+C0001,Git,Interview,HR Analyst
+C0002,SQL,Selected,Data Analyst
+C0002,Excel,Selected,Data Analyst
+C0002,Power BI,Selected,Data Analyst
+C0002,Statistics,Selected,Data Analyst
+C0002,HTML/CSS,Selected,Data Analyst
+C0003,SQL,Rejected,Data Analyst
+C0003,Excel,Rejected,Data Analyst
+C0003,Power BI,Rejected,Data Analyst
+C0003,Java,Rejected,Data Analyst
+C0003,Python,Rejected,Data Analyst
+C0003,Statistics,Rejected,Data Analyst
+C0004,Communication,Rejected,Business Analyst
+C0004,Python,Rejected,Business Analyst
+C0004,Statistics,Rejected,Business Analyst
+C0005,Python,Interview,QA Engineer
+C0005,Power BI,Interview,QA Engineer
+C0005,HTML/CSS,Interview,QA Engineer
+C0005,Communication,Interview,QA Engineer
+C0005,Tableau,Interview,QA Engineer
+C0006,AWS,Shortlisted,Software Developer
+C0006,Git,Shortlisted,Software Developer
+C0006,Excel,Shortlisted,Software Developer
+C0007,Git,Interview,Software Developer
+C0007,Java,Interview,Software Developer
+C0007,SQL,Interview,Software Developer
+C0007,Power BI,Interview,Software Developer
+C0008,Python,Rejected,Data Scientist
+C0008,Statistics,Rejected,Data Scientist
+C0008,Machine Learning,Rejected,Data Scientist
+C0008,Power BI,Rejected,Data Scientist
+C0008,Git,Rejected,Data Scientist
+C0008,Communication,Rejected,Data Scientist
+C0009,Java,Interview,Software Developer
+C0009,Power BI,Interview,Software Developer
+C0009,Excel,Interview,Software Developer
+C0009,Statistics,Interview,Software Developer
+C0009,Machine Learning,Interview,Software Developer
+C0009,SQL,Interview,Software Developer
+C0010,Communication,Rejected,Software Developer
+C0010,HTML/CSS,Rejected,Software Developer
+C0010,AWS,Rejected,Software Developer
+C0011,Git,Rejected,QA Engineer
+C0011,Java,Rejected,QA Engineer
+C0011,Python,Rejected,QA Engineer
+C0011,Tableau,Rejected,QA Engineer
+C0011,Communication,Rejected,QA Engineer
+C0012,Git,Selected,HR Analyst
+C0012,Tableau,Selected,HR Analyst
+C0012,Statistics,Selected,HR Analyst
+C0013,Python,Selected,Software Developer
+C0013,Java,Selected,Software Developer
+C0013,Tableau,Selected,Software Developer
+C0014,SQL,Screening,Data Analyst
+C0014,Excel,Screening,Data Analyst
+C0014,Power BI,Screening,Data Analyst
+C0014,Git,Screening,Data Analyst
+C0014,Machine Learning,Screening,Data Analyst
+C0014,Statistics,Screening,Data Analyst
+C0015,Machine Learning,Rejected,Software Developer
+C0015,Statistics,Rejected,Software Developer
+C0015,HTML/CSS,Rejected,Software Developer
+C0015,Python,Rejected,Software Developer
+C0015,Power BI,Rejected,Software Developer
+C0016,SQL,Screening,Data Analyst
+C0016,Excel,Screening,Data Analyst
+C0016,Power BI,Screening,Data Analyst
+C0016,HTML/CSS,Screening,Data Analyst
+C0016,Git,Screening,Data Analyst
+C0017,Statistics,Selected,Business Analyst
+C0017,Excel,Selected,Business Analyst
+C0017,AWS,Selected,Business Analyst
+C0017,Machine Learning,Selected,Business Analyst
+C0018,Communication,Rejected,Software Developer
+C0018,Machine Learning,Rejected,Software Developer
+C0018,SQL,Rejected,Software Developer
+C0018,Python,Rejected,Software Developer
+C0018,AWS,Rejected,Software Developer
+C0018,Power BI,Rejected,Software Developer
+C0019,Excel,Interview,Software Developer
+C0019,Tableau,Interview,Software Developer
+C0019,Machine Learning,Interview,Software Developer
+C0019,Power BI,Interview,Software Developer
+C0019,Python,Interview,Software Developer
+C0019,Statistics,Interview,Software Developer
+C0020,Communication,Interview,HR Analyst
+C0020,Machine Learning,Interview,HR Analyst
+C0020,Git,Interview,HR Analyst
+C0020,Power BI,Interview,HR Analyst
+C0021,Tableau,Shortlisted,Software Developer
+C0021,Communication,Shortlisted,Software Developer
+C0021,Statistics,Shortlisted,Software Developer
+C0021,Machine Learning,Shortlisted,Software Developer
+C0021,Excel,Shortlisted,Software Developer
+C0021,Python,Shortlisted,Software Developer
+C0022,AWS,Selected,QA Engineer
+C0022,Machine Learning,Selected,QA Engineer
+C0022,Statistics,Selected,QA Engineer
+C0023,Communication,Applied,QA Engineer
+C0023,Python,Applied,QA Engineer
+C0023,AWS,Applied,QA Engineer
+C0023,Power BI,Applied,QA Engineer
+C0024,Tableau,Rejected,QA Engineer
+C0024,Power BI,Rejected,QA Engineer
+C0024,Java,Rejected,QA Engineer
+C0024,Git,Rejected,QA Engineer
+C0024,HTML/CSS,Rejected,QA Engineer
+C0025,Python,Applied,Data Scientist
+C0025,Statistics,Applied,Data Scientist
+C0025,Machine Learning,Applied,Data Scientist
+C0025,Power BI,Applied,Data Scientist
+C0026,Statistics,Screening,Business Analyst
+C0026,Tableau,Screening,Business Analyst
+C0026,AWS,Screening,Business Analyst
+C0026,HTML/CSS,Screening,Business Analyst
+C0026,SQL,Screening,Business Analyst
+C0026,Java,Screening,Business Analyst
+C0027,Tableau,Rejected,Software Developer
+C0027,HTML/CSS,Rejected,Software Developer
+C0027,AWS,Rejected,Software Developer
+C0027,Power BI,Rejected,Software Developer
+C0028,Git,Screening,QA Engineer
+C0028,Communication,Screening,QA Engineer
+C0028,Tableau,Screening,QA Engineer
+C0029,Statistics,Rejected,Software Developer
+C0029,SQL,Rejected,Software Developer
+C0029,Python,Rejected,Software Developer
+C0029,AWS,Rejected,Software Developer
+C0029,Excel,Rejected,Software Developer
+C0029,Tableau,Rejected,Software Developer
+C0030,Java,Shortlisted,QA Engineer
+C0030,SQL,Shortlisted,QA Engineer
+C0030,HTML/CSS,Shortlisted,QA Engineer
+C0030,Power BI,Shortlisted,QA Engineer
+C0030,Statistics,Shortlisted,QA Engineer
+C0031,Excel,Applied,QA Engineer
+C0031,Communication,Applied,QA Engineer
+C0031,SQL,Applied,QA Engineer
+C0031,HTML/CSS,Applied,QA Engineer
+C0032,Communication,Rejected,HR Analyst
+C0032,SQL,Rejected,HR Analyst
+C0032,Machine Learning,Rejected,HR Analyst
+C0033,Communication,Rejected,Business Analyst
+C0033,Java,Rejected,Business Analyst
+C0033,Tableau,Rejected,Business Analyst
+C0033,Python,Rejected,Business Analyst
+C0034,Excel,Rejected,HR Analyst
+C0034,AWS,Rejected,HR Analyst
+C0034,Tableau,Rejected,HR Analyst
+C0034,SQL,Rejected,HR Analyst
+C0034,Python,Rejected,HR Analyst
+C0035,Communication,Interview,HR Analyst
+C0035,AWS,Interview,HR Analyst
+C0035,Power BI,Interview,HR Analyst
+C0036,SQL,Shortlisted,Data Analyst
+C0036,Excel,Shortlisted,Data Analyst
+C0036,Power BI,Shortlisted,Data Analyst
+C0036,AWS,Shortlisted,Data Analyst
+C0036,Java,Shortlisted,Data Analyst
+C0036,Python,Shortlisted,Data Analyst
+C0037,Git,Rejected,HR Analyst
+C0037,Excel,Rejected,HR Analyst
+C0037,AWS,Rejected,HR Analyst
+C0037,Tableau,Rejected,HR Analyst
+C0037,Communication,Rejected,HR Analyst
+C0037,Statistics,Rejected,HR Analyst
+C0038,Statistics,Rejected,Software Developer
+C0038,Machine Learning,Rejected,Software Developer
+C0038,Excel,Rejected,Software Developer
+C0038,Python,Rejected,Software Developer
+C0039,SQL,Selected,Data Analyst
+C0039,Excel,Selected,Data Analyst
+C0039,Power BI,Selected,Data Analyst
+C0039,Git,Selected,Data Analyst
+C0040,Python,Rejected,Data Scientist
+C0040,Statistics,Rejected,Data Scientist
+C0040,Machine Learning,Rejected,Data Scientist
+C0040,Communication,Rejected,Data Scientist
+C0040,Power BI,Rejected,Data Scientist
+C0040,Excel,Rejected,Data Scientist
+C0041,Machine Learning,Rejected,HR Analyst
+C0041,Excel,Rejected,HR Analyst
+C0041,HTML/CSS,Rejected,HR Analyst
+C0042,Python,Screening,Data Scientist
+C0042,Statistics,Screening,Data Scientist
+C0042,Machine Learning,Screening,Data Scientist
+C0042,Excel,Screening,Data Scientist
+C0042,Git,Screening,Data Scientist
+C0042,Tableau,Screening,Data Scientist
+C0043,Tableau,Shortlisted,HR Analyst
+C0043,Java,Shortlisted,HR Analyst
+C0043,Git,Shortlisted,HR Analyst
+C0043,Statistics,Shortlisted,HR Analyst
+C0044,Communication,Screening,Software Developer
+C0044,Java,Screening,Software Developer
+C0044,Statistics,Screening,Software Developer
+C0044,Machine Learning,Screening,Software Developer
+C0044,HTML/CSS,Screening,Software Developer
+C0044,SQL,Screening,Software Developer
+C0045,Python,Rejected,Data Scientist
+C0045,Statistics,Rejected,Data Scientist
+C0045,Machine Learning,Rejected,Data Scientist
+C0045,SQL,Rejected,Data Scientist
+C0045,Java,Rejected,Data Scientist
+C0045,Tableau,Rejected,Data Scientist
+C0046,Python,Screening,Data Scientist
+C0046,Statistics,Screening,Data Scientist
+C0046,Machine Learning,Screening,Data Scientist
+C0046,Java,Screening,Data Scientist
+C0046,Git,Screening,Data Scientist
+C0046,Communication,Screening,Data Scientist
+C0047,Python,Screening,Data Scientist
+C0047,Statistics,Screening,Data Scientist
+C0047,Machine Learning,Screening,Data Scientist
+C0047,Excel,Screening,Data Scientist
+C0047,SQL,Screening,Data Scientist
+C0047,Tableau,Screening,Data Scientist
+C0048,Python,Selected,Data Scientist
+C0048,Statistics,Selected,Data Scientist
+C0048,Machine Learning,Selected,Data Scientist
+C0048,Communication,Selected,Data Scientist
+C0048,Tableau,Selected,Data Scientist
+C0048,SQL,Selected,Data Scientist
+C0049,SQL,Interview,Software Developer
+C0049,Power BI,Interview,Software Developer
+C0049,Git,Interview,Software Developer
+C0050,Machine Learning,Rejected,Software Developer
+C0050,Tableau,Rejected,Software Developer
+C0050,Java,Rejected,Software Developer
+C0050,Excel,Rejected,Software Developer
+C0051,Communication,Interview,Software Developer
+C0051,Power BI,Interview,Software Developer
+C0051,Python,Interview,Software Developer
+C0051,Git,Interview,Software Developer
+C0051,AWS,Interview,Software Developer
+C0051,Java,Interview,Software Developer
+C0052,Python,Rejected,QA Engineer
+C0052,Statistics,Rejected,QA Engineer
+C0052,Java,Rejected,QA Engineer
+C0052,SQL,Rejected,QA Engineer
+C0052,Communication,Rejected,QA Engineer
+C0053,HTML/CSS,Screening,Business Analyst
+C0053,Statistics,Screening,Business Analyst
+C0053,Tableau,Screening,Business Analyst
+C0053,Git,Screening,Business Analyst
+C0054,Tableau,Rejected,HR Analyst
+C0054,Machine Learning,Rejected,HR Analyst
+C0054,Power BI,Rejected,HR Analyst
+C0055,Power BI,Selected,Business Analyst
+C0055,Java,Selected,Business Analyst
+C0055,Tableau,Selected,Business Analyst
+C0055,Git,Selected,Business Analyst
+C0055,AWS,Selected,Business Analyst
+C0055,Machine Learning,Selected,Business Analyst
+C0056,Statistics,Applied,QA Engineer
+C0056,Power BI,Applied,QA Engineer
+C0056,Machine Learning,Applied,QA Engineer
+C0056,AWS,Applied,QA Engineer
+C0056,HTML/CSS,Applied,QA Engineer
+C0056,Communication,Applied,QA Engineer
+C0057,Machine Learning,Selected,Software Developer
+C0057,Statistics,Selected,Software Developer
+C0057,Git,Selected,Software Developer
+C0057,Java,Selected,Software Developer
+C0057,Communication,Selected,Software Developer
+C0058,HTML/CSS,Applied,HR Analyst
+C0058,Power BI,Applied,HR Analyst
+C0058,Java,Applied,HR Analyst
+C0059,Python,Screening,Software Developer
+C0059,Power BI,Screening,Software Developer
+C0059,Tableau,Screening,Software Developer
+C0059,Git,Screening,Software Developer
+C0059,Java,Screening,Software Developer
+C0060,HTML/CSS,Applied,HR Analyst
+C0060,Excel,Applied,HR Analyst
+C0060,Machine Learning,Applied,HR Analyst
+C0060,Python,Applied,HR Analyst
+C0060,SQL,Applied,HR Analyst
+C0061,Python,Selected,Data Scientist
+C0061,Statistics,Selected,Data Scientist
+C0061,Machine Learning,Selected,Data Scientist
+C0061,Git,Selected,Data Scientist
+C0061,Communication,Selected,Data Scientist
+C0061,HTML/CSS,Selected,Data Scientist
+C0062,Statistics,Interview,Software Developer
+C0062,Communication,Interview,Software Developer
+C0062,AWS,Interview,Software Developer
+C0063,Tableau,Rejected,QA Engineer
+C0063,AWS,Rejected,QA Engineer
+C0063,Git,Rejected,QA Engineer
+C0063,SQL,Rejected,QA Engineer
+C0063,Python,Rejected,QA Engineer
+C0063,Communication,Rejected,QA Engineer
+C0064,Excel,Applied,Business Analyst
+C0064,SQL,Applied,Business Analyst
+C0064,Communication,Applied,Business Analyst
+C0065,Python,Interview,Business Analyst
+C0065,Git,Interview,Business Analyst
+C0065,Power BI,Interview,Business Analyst
+C0065,Tableau,Interview,Business Analyst
+C0065,AWS,Interview,Business Analyst
+C0065,Machine Learning,Interview,Business Analyst
+C0066,Excel,Rejected,HR Analyst
+C0066,Tableau,Rejected,HR Analyst
+C0066,AWS,Rejected,HR Analyst
+C0067,Python,Rejected,Data Scientist
+C0067,Statistics,Rejected,Data Scientist
+C0067,Machine Learning,Rejected,Data Scientist
+C0067,Tableau,Rejected,Data Scientist
+C0067,Git,Rejected,Data Scientist
+C0067,AWS,Rejected,Data Scientist
+C0068,Git,Interview,HR Analyst
+C0068,Tableau,Interview,HR Analyst
+C0068,AWS,Interview,HR Analyst
+C0069,Python,Shortlisted,Data Scientist
+C0069,Statistics,Shortlisted,Data Scientist
+C0069,Machine Learning,Shortlisted,Data Scientist
+C0069,Git,Shortlisted,Data Scientist
+C0069,HTML/CSS,Shortlisted,Data Scientist
+C0069,Java,Shortlisted,Data Scientist
+C0070,Statistics,Rejected,Software Developer
+C0070,SQL,Rejected,Software Developer
+C0070,Machine Learning,Rejected,Software Developer
+C0070,Python,Rejected,Software Developer
+C0070,Java,Rejected,Software Developer
+C0070,Excel,Rejected,Software Developer
+C0071,Communication,Interview,QA Engineer
+C0071,SQL,Interview,QA Engineer
+C0071,Power BI,Interview,QA Engineer
+C0071,Statistics,Interview,QA Engineer
+C0071,Java,Interview,QA Engineer
+C0071,Tableau,Interview,QA Engineer
+C0072,SQL,Rejected,Data Analyst
+C0072,Excel,Rejected,Data Analyst
+C0072,Power BI,Rejected,Data Analyst
+C0072,HTML/CSS,Rejected,Data Analyst
+C0072,Machine Learning,Rejected,Data Analyst
+C0072,Python,Rejected,Data Analyst
+C0073,Python,Selected,QA Engineer
+C0073,Git,Selected,QA Engineer
+C0073,Excel,Selected,QA Engineer
+C0073,Machine Learning,Selected,QA Engineer
+C0073,Tableau,Selected,QA Engineer
+C0073,Statistics,Selected,QA Engineer
+C0074,Python,Rejected,Data Scientist
+C0074,Statistics,Rejected,Data Scientist
+C0074,Machine Learning,Rejected,Data Scientist
+C0074,AWS,Rejected,Data Scientist
+C0074,Excel,Rejected,Data Scientist
+C0075,AWS,Interview,Business Analyst
+C0075,HTML/CSS,Interview,Business Analyst
+C0075,Machine Learning,Interview,Business Analyst
+C0075,Excel,Interview,Business Analyst
+C0075,Git,Interview,Business Analyst
+C0076,HTML/CSS,Shortlisted,Business Analyst
+C0076,Power BI,Shortlisted,Business Analyst
+C0076,AWS,Shortlisted,Business Analyst
+C0076,Communication,Shortlisted,Business Analyst
+C0077,SQL,Rejected,Data Analyst
+C0077,Excel,Rejected,Data Analyst
+C0077,Power BI,Rejected,Data Analyst
+C0077,Git,Rejected,Data Analyst
+C0077,HTML/CSS,Rejected,Data Analyst
+C0077,Machine Learning,Rejected,Data Analyst
+C0078,SQL,Selected,Data Analyst
+C0078,Excel,Selected,Data Analyst
+C0078,Power BI,Selected,Data Analyst
+C0078,HTML/CSS,Selected,Data Analyst
+C0078,Communication,Selected,Data Analyst
+C0079,Java,Shortlisted,Business Analyst
+C0079,Git,Shortlisted,Business Analyst
+C0079,Machine Learning,Shortlisted,Business Analyst
+C0079,Statistics,Shortlisted,Business Analyst
+C0079,SQL,Shortlisted,Business Analyst
+C0079,Tableau,Shortlisted,Business Analyst
+C0080,Machine Learning,Rejected,Software Developer
+C0080,Excel,Rejected,Software Developer
+C0080,Tableau,Rejected,Software Developer
+C0081,SQL,Screening,Data Analyst
+C0081,Excel,Screening,Data Analyst
+C0081,Power BI,Screening,Data Analyst
+C0081,Statistics,Screening,Data Analyst
+C0081,Communication,Screening,Data Analyst
+C0081,AWS,Screening,Data Analyst
+C0082,AWS,Interview,QA Engineer
+C0082,Excel,Interview,QA Engineer
+C0082,Power BI,Interview,QA Engineer
+C0082,Machine Learning,Interview,QA Engineer
+C0082,Tableau,Interview,QA Engineer
+C0082,HTML/CSS,Interview,QA Engineer
+C0083,Python,Shortlisted,Data Scientist
+C0083,Statistics,Shortlisted,Data Scientist
+C0083,Machine Learning,Shortlisted,Data Scientist
+C0083,Git,Shortlisted,Data Scientist
+C0083,Communication,Shortlisted,Data Scientist
+C0083,Tableau,Shortlisted,Data Scientist
+C0084,SQL,Shortlisted,Data Analyst
+C0084,Excel,Shortlisted,Data Analyst
+C0084,Power BI,Shortlisted,Data Analyst
+C0084,HTML/CSS,Shortlisted,Data Analyst
+C0084,Tableau,Shortlisted,Data Analyst
+C0084,Communication,Shortlisted,Data Analyst
+C0085,AWS,Applied,QA Engineer
+C0085,Java,Applied,QA Engineer
+C0085,Power BI,Applied,QA Engineer
+C0085,HTML/CSS,Applied,QA Engineer
+C0086,AWS,Selected,HR Analyst
+C0086,Java,Selected,HR Analyst
+C0086,Excel,Selected,HR Analyst
+C0087,Excel,Selected,Software Developer
+C0087,Tableau,Selected,Software Developer
+C0087,Machine Learning,Selected,Software Developer
+C0087,Git,Selected,Software Developer
+C0087,Java,Selected,Software Developer
+C0088,Statistics,Interview,Software Developer
+C0088,Java,Interview,Software Developer
+C0088,Python,Interview,Software Developer
+C0088,Communication,Interview,Software Developer
+C0088,SQL,Interview,Software Developer
+C0088,Excel,Interview,Software Developer
+C0089,Python,Screening,Business Analyst
+C0089,Git,Screening,Business Analyst
+C0089,Power BI,Screening,Business Analyst
+C0089,Machine Learning,Screening,Business Analyst
+C0089,SQL,Screening,Business Analyst
+C0090,Git,Screening,QA Engineer
+C0090,Communication,Screening,QA Engineer
+C0090,Python,Screening,QA Engineer
+C0090,Excel,Screening,QA Engineer
+C0090,SQL,Screening,QA Engineer
+C0091,SQL,Screening,Data Analyst
+C0091,Excel,Screening,Data Analyst
+C0091,Power BI,Screening,Data Analyst
+C0091,Machine Learning,Screening,Data Analyst
+C0091,Java,Screening,Data Analyst
+C0091,Statistics,Screening,Data Analyst
+C0092,Machine Learning,Shortlisted,QA Engineer
+C0092,HTML/CSS,Shortlisted,QA Engineer
+C0092,Power BI,Shortlisted,QA Engineer
+C0092,Java,Shortlisted,QA Engineer
+C0093,Python,Selected,QA Engineer
+C0093,Machine Learning,Selected,QA Engineer
+C0093,HTML/CSS,Selected,QA Engineer
+C0093,Power BI,Selected,QA Engineer
+C0094,Statistics,Rejected,Business Analyst
+C0094,Power BI,Rejected,Business Analyst
+C0094,AWS,Rejected,Business Analyst
+C0095,Tableau,Selected,Business Analyst
+C0095,Excel,Selected,Business Analyst
+C0095,Git,Selected,Business Analyst
+C0096,SQL,Shortlisted,Data Analyst
+C0096,Excel,Shortlisted,Data Analyst
+C0096,Power BI,Shortlisted,Data Analyst
+C0096,AWS,Shortlisted,Data Analyst
+C0096,Java,Shortlisted,Data Analyst
+C0097,Java,Rejected,HR Analyst
+C0097,Statistics,Rejected,HR Analyst
+C0097,AWS,Rejected,HR Analyst
+C0097,Python,Rejected,HR Analyst
+C0097,Machine Learning,Rejected,HR Analyst
+C0097,Tableau,Rejected,HR Analyst
+C0098,Machine Learning,Screening,HR Analyst
+C0098,Communication,Screening,HR Analyst
+C0098,Git,Screening,HR Analyst
+C0099,SQL,Selected,Data Analyst
+C0099,Excel,Selected,Data Analyst
+C0099,Power BI,Selected,Data Analyst
+C0099,Tableau,Selected,Data Analyst
+C0099,AWS,Selected,Data Analyst
+C0099,Git,Selected,Data Analyst
+C0100,Python,Shortlisted,Data Scientist
+C0100,Statistics,Shortlisted,Data Scientist
+C0100,Machine Learning,Shortlisted,Data Scientist
+C0100,Git,Shortlisted,Data Scientist
+C0100,HTML/CSS,Shortlisted,Data Scientist
+C0101,HTML/CSS,Selected,Software Developer
+C0101,Python,Selected,Software Developer
+C0101,Java,Selected,Software Developer
+C0101,Communication,Selected,Software Developer
+C0101,AWS,Selected,Software Developer
+C0101,Machine Learning,Selected,Software Developer
+C0102,SQL,Selected,Data Analyst
+C0102,Excel,Selected,Data Analyst
+C0102,Power BI,Selected,Data Analyst
+C0102,Statistics,Selected,Data Analyst
+C0102,Git,Selected,Data Analyst
+C0102,Java,Selected,Data Analyst
+C0103,AWS,Selected,HR Analyst
+C0103,Tableau,Selected,HR Analyst
+C0103,Java,Selected,HR Analyst
+C0103,Python,Selected,HR Analyst
+C0103,Power BI,Selected,HR Analyst
+C0104,Communication,Applied,Business Analyst
+C0104,Statistics,Applied,Business Analyst
+C0104,AWS,Applied,Business Analyst
+C0104,Git,Applied,Business Analyst
+C0105,SQL,Shortlisted,Data Analyst
+C0105,Excel,Shortlisted,Data Analyst
+C0105,Power BI,Shortlisted,Data Analyst
+C0105,Java,Shortlisted,Data Analyst
+C0105,AWS,Shortlisted,Data Analyst
+C0105,Communication,Shortlisted,Data Analyst
+C0106,SQL,Selected,Data Analyst
+C0106,Excel,Selected,Data Analyst
+C0106,Power BI,Selected,Data Analyst
+C0106,Java,Selected,Data Analyst
+C0106,Tableau,Selected,Data Analyst
+C0106,Git,Selected,Data Analyst
+C0107,Machine Learning,Rejected,QA Engineer
+C0107,AWS,Rejected,QA Engineer
+C0107,HTML/CSS,Rejected,QA Engineer
+C0107,Communication,Rejected,QA Engineer
+C0107,Tableau,Rejected,QA Engineer
+C0107,Python,Rejected,QA Engineer
+C0108,Python,Applied,Data Scientist
+C0108,Statistics,Applied,Data Scientist
+C0108,Machine Learning,Applied,Data Scientist
+C0108,Git,Applied,Data Scientist
+C0108,Tableau,Applied,Data Scientist
+C0108,SQL,Applied,Data Scientist
+C0109,Java,Rejected,Software Developer
+C0109,Python,Rejected,Software Developer
+C0109,SQL,Rejected,Software Developer
+C0109,Machine Learning,Rejected,Software Developer
+C0109,Communication,Rejected,Software Developer
+C0110,Python,Rejected,QA Engineer
+C0110,Communication,Rejected,QA Engineer
+C0110,SQL,Rejected,QA Engineer
+C0110,Git,Rejected,QA Engineer
+C0110,AWS,Rejected,QA Engineer
+C0111,Tableau,Interview,Business Analyst
+C0111,Python,Interview,Business Analyst
+C0111,Communication,Interview,Business Analyst
+C0111,SQL,Interview,Business Analyst
+C0111,Java,Interview,Business Analyst
+C0111,Git,Interview,Business Analyst
+C0112,SQL,Interview,Data Analyst
+C0112,Excel,Interview,Data Analyst
+C0112,Power BI,Interview,Data Analyst
+C0112,Statistics,Interview,Data Analyst
+C0112,Python,Interview,Data Analyst
+C0112,Communication,Interview,Data Analyst
+C0113,SQL,Rejected,Data Analyst
+C0113,Excel,Rejected,Data Analyst
+C0113,Power BI,Rejected,Data Analyst
+C0113,Java,Rejected,Data Analyst
+C0113,Git,Rejected,Data Analyst
+C0113,Python,Rejected,Data Analyst
+C0114,Excel,Interview,Software Developer
+C0114,Git,Interview,Software Developer
+C0114,Machine Learning,Interview,Software Developer
+C0115,Excel,Interview,HR Analyst
+C0115,Machine Learning,Interview,HR Analyst
+C0115,Python,Interview,HR Analyst
+C0115,Git,Interview,HR Analyst
+C0115,Statistics,Interview,HR Analyst
+C0116,Machine Learning,Applied,QA Engineer
+C0116,SQL,Applied,QA Engineer
+C0116,Git,Applied,QA Engineer
+C0116,Java,Applied,QA Engineer
+C0116,Tableau,Applied,QA Engineer
+C0116,AWS,Applied,QA Engineer
+C0117,Python,Applied,Data Scientist
+C0117,Statistics,Applied,Data Scientist
+C0117,Machine Learning,Applied,Data Scientist
+C0117,Java,Applied,Data Scientist
+C0117,AWS,Applied,Data Scientist
+C0118,SQL,Applied,Data Analyst
+C0118,Excel,Applied,Data Analyst
+C0118,Power BI,Applied,Data Analyst
+C0118,Machine Learning,Applied,Data Analyst
+C0118,AWS,Applied,Data Analyst
+C0119,Git,Shortlisted,Business Analyst
+C0119,HTML/CSS,Shortlisted,Business Analyst
+C0119,Java,Shortlisted,Business Analyst
+C0120,Java,Screening,QA Engineer
+C0120,Python,Screening,QA Engineer
+C0120,AWS,Screening,QA Engineer
+C0120,Excel,Screening,QA Engineer
+C0121,Excel,Screening,Software Developer
+C0121,Git,Screening,Software Developer
+C0121,Statistics,Screening,Software Developer
+C0121,Python,Screening,Software Developer
+C0121,Communication,Screening,Software Developer
+C0122,Power BI,Selected,Business Analyst
+C0122,HTML/CSS,Selected,Business Analyst
+C0122,Excel,Selected,Business Analyst
+C0122,AWS,Selected,Business Analyst
+C0122,Python,Selected,Business Analyst
+C0122,Statistics,Selected,Business Analyst
+C0123,Excel,Interview,HR Analyst
+C0123,AWS,Interview,HR Analyst
+C0123,HTML/CSS,Interview,HR Analyst
+C0123,Machine Learning,Interview,HR Analyst
+C0124,HTML/CSS,Interview,HR Analyst
+C0124,Machine Learning,Interview,HR Analyst
+C0124,Power BI,Interview,HR Analyst
+C0124,Statistics,Interview,HR Analyst
+C0124,AWS,Interview,HR Analyst
+C0125,Statistics,Screening,Software Developer
+C0125,HTML/CSS,Screening,Software Developer
+C0125,Communication,Screening,Software Developer
+C0125,Excel,Screening,Software Developer
+C0125,Power BI,Screening,Software Developer
+C0125,AWS,Screening,Software Developer
+C0126,SQL,Shortlisted,Data Analyst
+C0126,Excel,Shortlisted,Data Analyst
+C0126,Power BI,Shortlisted,Data Analyst
+C0126,HTML/CSS,Shortlisted,Data Analyst
+C0126,Statistics,Shortlisted,Data Analyst
+C0126,Python,Shortlisted,Data Analyst
+C0127,Machine Learning,Rejected,Business Analyst
+C0127,Java,Rejected,Business Analyst
+C0127,SQL,Rejected,Business Analyst
+C0127,Communication,Rejected,Business Analyst
+C0128,Python,Shortlisted,Software Developer
+C0128,Git,Shortlisted,Software Developer
+C0128,Java,Shortlisted,Software Developer
+C0128,Excel,Shortlisted,Software Developer
+C0128,Statistics,Shortlisted,Software Developer
+C0129,AWS,Screening,HR Analyst
+C0129,SQL,Screening,HR Analyst
+C0129,Python,Screening,HR Analyst
+C0129,Git,Screening,HR Analyst
+C0129,Tableau,Screening,HR Analyst
+C0129,HTML/CSS,Screening,HR Analyst
+C0130,SQL,Applied,Data Analyst
+C0130,Excel,Applied,Data Analyst
+C0130,Power BI,Applied,Data Analyst
+C0130,Communication,Applied,Data Analyst
+C0130,AWS,Applied,Data Analyst
+C0131,Python,Applied,Data Scientist
+C0131,Statistics,Applied,Data Scientist
+C0131,Machine Learning,Applied,Data Scientist
+C0131,HTML/CSS,Applied,Data Scientist
+C0131,Excel,Applied,Data Scientist
+C0131,Tableau,Applied,Data Scientist
+C0132,Statistics,Rejected,Software Developer
+C0132,Java,Rejected,Software Developer
+C0132,Python,Rejected,Software Developer
+C0133,Python,Rejected,Data Scientist
+C0133,Statistics,Rejected,Data Scientist
+C0133,Machine Learning,Rejected,Data Scientist
+C0133,Tableau,Rejected,Data Scientist
+C0133,SQL,Rejected,Data Scientist
+C0133,Java,Rejected,Data Scientist
+C0134,Git,Rejected,QA Engineer
+C0134,Excel,Rejected,QA Engineer
+C0134,Machine Learning,Rejected,QA Engineer
+C0134,AWS,Rejected,QA Engineer
+C0134,HTML/CSS,Rejected,QA Engineer
+C0135,SQL,Rejected,Data Analyst
+C0135,Excel,Rejected,Data Analyst
+C0135,Power BI,Rejected,Data Analyst
+C0135,Java,Rejected,Data Analyst
+C0135,Tableau,Rejected,Data Analyst
+C0135,Statistics,Rejected,Data Analyst
+C0136,Tableau,Shortlisted,Business Analyst
+C0136,Python,Shortlisted,Business Analyst
+C0136,Java,Shortlisted,Business Analyst
+C0136,Communication,Shortlisted,Business Analyst
+C0136,Statistics,Shortlisted,Business Analyst
+C0137,Python,Selected,Business Analyst
+C0137,Communication,Selected,Business Analyst
+C0137,HTML/CSS,Selected,Business Analyst
+C0137,Git,Selected,Business Analyst
+C0137,Excel,Selected,Business Analyst
+C0138,SQL,Selected,Data Analyst
+C0138,Excel,Selected,Data Analyst
+C0138,Power BI,Selected,Data Analyst
+C0138,Machine Learning,Selected,Data Analyst
+C0138,Java,Selected,Data Analyst
+C0138,Git,Selected,Data Analyst
+C0139,Java,Interview,Business Analyst
+C0139,Statistics,Interview,Business Analyst
+C0139,Excel,Interview,Business Analyst
+C0139,SQL,Interview,Business Analyst
+C0139,AWS,Interview,Business Analyst
+C0139,Communication,Interview,Business Analyst
+C0140,SQL,Shortlisted,Data Analyst
+C0140,Excel,Shortlisted,Data Analyst
+C0140,Power BI,Shortlisted,Data Analyst
+C0140,Java,Shortlisted,Data Analyst
+C0140,Communication,Shortlisted,Data Analyst
+C0140,AWS,Shortlisted,Data Analyst
+C0141,Python,Interview,Data Scientist
+C0141,Statistics,Interview,Data Scientist
+C0141,Machine Learning,Interview,Data Scientist
+C0141,Communication,Interview,Data Scientist
+C0141,Java,Interview,Data Scientist
+C0141,Tableau,Interview,Data Scientist
+C0142,Python,Shortlisted,Data Scientist
+C0142,Statistics,Shortlisted,Data Scientist
+C0142,Machine Learning,Shortlisted,Data Scientist
+C0142,Tableau,Shortlisted,Data Scientist
+C0142,Power BI,Shortlisted,Data Scientist
+C0142,HTML/CSS,Shortlisted,Data Scientist
+C0143,SQL,Rejected,Data Analyst
+C0143,Excel,Rejected,Data Analyst
+C0143,Power BI,Rejected,Data Analyst
+C0143,Git,Rejected,Data Analyst
+C0143,Java,Rejected,Data Analyst
+C0143,HTML/CSS,Rejected,Data Analyst
+C0144,Java,Selected,Business Analyst
+C0144,Statistics,Selected,Business Analyst
+C0144,Power BI,Selected,Business Analyst
+C0144,Python,Selected,Business Analyst
+C0145,SQL,Rejected,Data Analyst
+C0145,Excel,Rejected,Data Analyst
+C0145,Power BI,Rejected,Data Analyst
+C0145,AWS,Rejected,Data Analyst
+C0145,Python,Rejected,Data Analyst
+C0145,Git,Rejected,Data Analyst
+C0146,Java,Screening,QA Engineer
+C0146,Git,Screening,QA Engineer
+C0146,Python,Screening,QA Engineer
+C0146,Machine Learning,Screening,QA Engineer
+C0147,Statistics,Interview,Software Developer
+C0147,SQL,Interview,Software Developer
+C0147,Python,Interview,Software Developer
+C0147,HTML/CSS,Interview,Software Developer
+C0147,Excel,Interview,Software Developer
+C0147,Machine Learning,Interview,Software Developer
+C0148,Python,Rejected,HR Analyst
+C0148,Tableau,Rejected,HR Analyst
+C0148,Power BI,Rejected,HR Analyst
+C0148,Statistics,Rejected,HR Analyst
+C0148,Git,Rejected,HR Analyst
+C0149,Excel,Shortlisted,QA Engineer
+C0149,Git,Shortlisted,QA Engineer
+C0149,AWS,Shortlisted,QA Engineer
+C0149,Java,Shortlisted,QA Engineer
+C0150,SQL,Rejected,Data Analyst
+C0150,Excel,Rejected,Data Analyst
+C0150,Power BI,Rejected,Data Analyst
+C0150,AWS,Rejected,Data Analyst
+C0150,Git,Rejected,Data Analyst
+C0150,Machine Learning,Rejected,Data Analyst
+C0151,Excel,Rejected,HR Analyst
+C0151,Machine Learning,Rejected,HR Analyst
+C0151,Communication,Rejected,HR Analyst
+C0152,Communication,Rejected,Business Analyst
+C0152,Excel,Rejected,Business Analyst
+C0152,Java,Rejected,Business Analyst
+C0152,Statistics,Rejected,Business Analyst
+C0152,Python,Rejected,Business Analyst
+C0153,SQL,Rejected,Data Analyst
+C0153,Excel,Rejected,Data Analyst
+C0153,Power BI,Rejected,Data Analyst
+C0153,Tableau,Rejected,Data Analyst
+C0153,Communication,Rejected,Data Analyst
+C0153,AWS,Rejected,Data Analyst
+C0154,Statistics,Screening,Business Analyst
+C0154,Machine Learning,Screening,Business Analyst
+C0154,Git,Screening,Business Analyst
+C0154,Tableau,Screening,Business Analyst
+C0154,AWS,Screening,Business Analyst
+C0154,SQL,Screening,Business Analyst
+C0155,AWS,Applied,Software Developer
+C0155,Git,Applied,Software Developer
+C0155,Machine Learning,Applied,Software Developer
+C0155,Tableau,Applied,Software Developer
+C0155,SQL,Applied,Software Developer
+C0155,Communication,Applied,Software Developer
+C0156,Communication,Selected,Business Analyst
+C0156,SQL,Selected,Business Analyst
+C0156,AWS,Selected,Business Analyst
+C0157,SQL,Shortlisted,Data Analyst
+C0157,Excel,Shortlisted,Data Analyst
+C0157,Power BI,Shortlisted,Data Analyst
+C0157,Python,Shortlisted,Data Analyst
+C0157,Communication,Shortlisted,Data Analyst
+C0158,Statistics,Interview,QA Engineer
+C0158,SQL,Interview,QA Engineer
+C0158,Git,Interview,QA Engineer
+C0158,AWS,Interview,QA Engineer
+C0158,Excel,Interview,QA Engineer
+C0158,Java,Interview,QA Engineer
+C0159,Java,Selected,QA Engineer
+C0159,AWS,Selected,QA Engineer
+C0159,HTML/CSS,Selected,QA Engineer
+C0159,Excel,Selected,QA Engineer
+C0160,SQL,Selected,QA Engineer
+C0160,Java,Selected,QA Engineer
+C0160,Git,Selected,QA Engineer
+C0160,Python,Selected,QA Engineer
+C0160,Communication,Selected,QA Engineer
+C0160,Tableau,Selected,QA Engineer
+C0161,Excel,Selected,Business Analyst
+C0161,Statistics,Selected,Business Analyst
+C0161,AWS,Selected,Business Analyst
+C0161,Communication,Selected,Business Analyst
+C0161,HTML/CSS,Selected,Business Analyst
+C0161,Git,Selected,Business Analyst
+C0162,HTML/CSS,Screening,Software Developer
+C0162,Power BI,Screening,Software Developer
+C0162,Communication,Screening,Software Developer
+C0162,Statistics,Screening,Software Developer
+C0162,Machine Learning,Screening,Software Developer
+C0162,AWS,Screening,Software Developer
+C0163,Java,Rejected,QA Engineer
+C0163,Excel,Rejected,QA Engineer
+C0163,Machine Learning,Rejected,QA Engineer
+C0163,Statistics,Rejected,QA Engineer
+C0163,HTML/CSS,Rejected,QA Engineer
+C0163,Tableau,Rejected,QA Engineer
+C0164,Power BI,Rejected,QA Engineer
+C0164,Tableau,Rejected,QA Engineer
+C0164,Git,Rejected,QA Engineer
+C0164,HTML/CSS,Rejected,QA Engineer
+C0164,Machine Learning,Rejected,QA Engineer
+C0165,Communication,Rejected,QA Engineer
+C0165,Java,Rejected,QA Engineer
+C0165,Excel,Rejected,QA Engineer
+C0165,Tableau,Rejected,QA Engineer
+C0165,SQL,Rejected,QA Engineer
+C0165,AWS,Rejected,QA Engineer
+C0166,Statistics,Rejected,HR Analyst
+C0166,Tableau,Rejected,HR Analyst
+C0166,Excel,Rejected,HR Analyst
+C0166,Python,Rejected,HR Analyst
+C0166,Power BI,Rejected,HR Analyst
+C0167,Python,Shortlisted,HR Analyst
+C0167,Git,Shortlisted,HR Analyst
+C0167,Excel,Shortlisted,HR Analyst
+C0167,SQL,Shortlisted,HR Analyst
+C0167,AWS,Shortlisted,HR Analyst
+C0167,Power BI,Shortlisted,HR Analyst
+C0168,Statistics,Shortlisted,Business Analyst
+C0168,SQL,Shortlisted,Business Analyst
+C0168,Excel,Shortlisted,Business Analyst
+C0168,Communication,Shortlisted,Business Analyst
+C0169,Python,Interview,Data Scientist
+C0169,Statistics,Interview,Data Scientist
+C0169,Machine Learning,Interview,Data Scientist
+C0169,SQL,Interview,Data Scientist
+C0169,Tableau,Interview,Data Scientist
+C0169,AWS,Interview,Data Scientist
+C0170,Tableau,Shortlisted,Business Analyst
+C0170,Power BI,Shortlisted,Business Analyst
+C0170,Python,Shortlisted,Business Analyst
+C0170,Java,Shortlisted,Business Analyst
+C0170,Excel,Shortlisted,Business Analyst
+C0170,Statistics,Shortlisted,Business Analyst
+C0171,Excel,Rejected,HR Analyst
+C0171,AWS,Rejected,HR Analyst
+C0171,Communication,Rejected,HR Analyst
+C0171,Git,Rejected,HR Analyst
+C0172,Python,Rejected,Data Scientist
+C0172,Statistics,Rejected,Data Scientist
+C0172,Machine Learning,Rejected,Data Scientist
+C0172,Java,Rejected,Data Scientist
+C0172,Power BI,Rejected,Data Scientist
+C0172,SQL,Rejected,Data Scientist
+C0173,SQL,Screening,Business Analyst
+C0173,Git,Screening,Business Analyst
+C0173,Python,Screening,Business Analyst
+C0173,Machine Learning,Screening,Business Analyst
+C0174,Java,Rejected,HR Analyst
+C0174,AWS,Rejected,HR Analyst
+C0174,Power BI,Rejected,HR Analyst
+C0174,Git,Rejected,HR Analyst
+C0174,Excel,Rejected,HR Analyst
+C0175,Statistics,Rejected,HR Analyst
+C0175,Git,Rejected,HR Analyst
+C0175,Power BI,Rejected,HR Analyst
+C0175,AWS,Rejected,HR Analyst
+C0175,Python,Rejected,HR Analyst
+C0175,Tableau,Rejected,HR Analyst
+C0176,SQL,Selected,Data Analyst
+C0176,Excel,Selected,Data Analyst
+C0176,Power BI,Selected,Data Analyst
+C0176,AWS,Selected,Data Analyst
+C0176,Statistics,Selected,Data Analyst
+C0176,HTML/CSS,Selected,Data Analyst
+C0177,SQL,Interview,HR Analyst
+C0177,Machine Learning,Interview,HR Analyst
+C0177,Excel,Interview,HR Analyst
+C0177,Statistics,Interview,HR Analyst
+C0177,Communication,Interview,HR Analyst
+C0177,Power BI,Interview,HR Analyst
+C0178,SQL,Rejected,HR Analyst
+C0178,Power BI,Rejected,HR Analyst
+C0178,AWS,Rejected,HR Analyst
+C0178,Python,Rejected,HR Analyst
+C0178,HTML/CSS,Rejected,HR Analyst
+C0179,Tableau,Applied,QA Engineer
+C0179,Communication,Applied,QA Engineer
+C0179,Excel,Applied,QA Engineer
+C0180,Python,Interview,Business Analyst
+C0180,Git,Interview,Business Analyst
+C0180,Statistics,Interview,Business Analyst
+C0180,Excel,Interview,Business Analyst
+C0180,Java,Interview,Business Analyst
+C0180,SQL,Interview,Business Analyst
+C0181,Machine Learning,Applied,QA Engineer
+C0181,Git,Applied,QA Engineer
+C0181,Statistics,Applied,QA Engineer
+C0181,Communication,Applied,QA Engineer
+C0181,AWS,Applied,QA Engineer
+C0182,Git,Interview,Business Analyst
+C0182,Communication,Interview,Business Analyst
+C0182,AWS,Interview,Business Analyst
+C0183,SQL,Applied,Data Analyst
+C0183,Excel,Applied,Data Analyst
+C0183,Power BI,Applied,Data Analyst
+C0183,Communication,Applied,Data Analyst
+C0184,SQL,Screening,Data Analyst
+C0184,Excel,Screening,Data Analyst
+C0184,Power BI,Screening,Data Analyst
+C0184,AWS,Screening,Data Analyst
+C0184,HTML/CSS,Screening,Data Analyst
+C0184,Java,Screening,Data Analyst
+C0185,Python,Shortlisted,Data Scientist
+C0185,Statistics,Shortlisted,Data Scientist
+C0185,Machine Learning,Shortlisted,Data Scientist
+C0185,Git,Shortlisted,Data Scientist
+C0185,HTML/CSS,Shortlisted,Data Scientist
+C0185,Communication,Shortlisted,Data Scientist
+C0186,Communication,Rejected,HR Analyst
+C0186,Excel,Rejected,HR Analyst
+C0186,Tableau,Rejected,HR Analyst
+C0186,HTML/CSS,Rejected,HR Analyst
+C0186,Git,Rejected,HR Analyst
+C0186,Statistics,Rejected,HR Analyst
+C0187,Communication,Applied,Software Developer
+C0187,Statistics,Applied,Software Developer
+C0187,Git,Applied,Software Developer
+C0187,Excel,Applied,Software Developer
+C0187,HTML/CSS,Applied,Software Developer
+C0187,Python,Applied,Software Developer
+C0188,SQL,Shortlisted,HR Analyst
+C0188,Tableau,Shortlisted,HR Analyst
+C0188,Communication,Shortlisted,HR Analyst
+C0188,HTML/CSS,Shortlisted,HR Analyst
+C0189,Python,Rejected,Data Scientist
+C0189,Statistics,Rejected,Data Scientist
+C0189,Machine Learning,Rejected,Data Scientist
+C0189,Power BI,Rejected,Data Scientist
+C0189,HTML/CSS,Rejected,Data Scientist
+C0190,Python,Shortlisted,Data Scientist
+C0190,Statistics,Shortlisted,Data Scientist
+C0190,Machine Learning,Shortlisted,Data Scientist
+C0190,Git,Shortlisted,Data Scientist
+C0190,Java,Shortlisted,Data Scientist
+C0190,Tableau,Shortlisted,Data Scientist
+C0191,Python,Selected,Data Scientist
+C0191,Statistics,Selected,Data Scientist
+C0191,Machine Learning,Selected,Data Scientist
+C0191,Java,Selected,Data Scientist
+C0191,HTML/CSS,Selected,Data Scientist
+C0191,Communication,Selected,Data Scientist
+C0192,SQL,Rejected,Data Analyst
+C0192,Excel,Rejected,Data Analyst
+C0192,Power BI,Rejected,Data Analyst
+C0192,Communication,Rejected,Data Analyst
+C0192,AWS,Rejected,Data Analyst
+C0192,HTML/CSS,Rejected,Data Analyst
+C0193,Machine Learning,Shortlisted,Business Analyst
+C0193,Excel,Shortlisted,Business Analyst
+C0193,Java,Shortlisted,Business Analyst
+C0193,Git,Shortlisted,Business Analyst
+C0193,Statistics,Shortlisted,Business Analyst
+C0193,AWS,Shortlisted,Business Analyst
+C0194,SQL,Rejected,QA Engineer
+C0194,Communication,Rejected,QA Engineer
+C0194,Excel,Rejected,QA Engineer
+C0195,SQL,Rejected,Data Analyst
+C0195,Excel,Rejected,Data Analyst
+C0195,Power BI,Rejected,Data Analyst
+C0195,Git,Rejected,Data Analyst
+C0195,Machine Learning,Rejected,Data Analyst
+C0195,AWS,Rejected,Data Analyst
+C0196,Excel,Selected,QA Engineer
+C0196,Python,Selected,QA Engineer
+C0196,Git,Selected,QA Engineer
+C0196,Statistics,Selected,QA Engineer
+C0196,HTML/CSS,Selected,QA Engineer
+C0196,AWS,Selected,QA Engineer
+C0197,AWS,Shortlisted,Business Analyst
+C0197,Power BI,Shortlisted,Business Analyst
+C0197,Git,Shortlisted,Business Analyst
+C0197,Tableau,Shortlisted,Business Analyst
+C0197,Python,Shortlisted,Business Analyst
+C0197,Java,Shortlisted,Business Analyst
+C0198,Python,Selected,Data Scientist
+C0198,Statistics,Selected,Data Scientist
+C0198,Machine Learning,Selected,Data Scientist
+C0198,Communication,Selected,Data Scientist
+C0198,Java,Selected,Data Scientist
+C0199,Statistics,Shortlisted,Software Developer
+C0199,AWS,Shortlisted,Software Developer
+C0199,SQL,Shortlisted,Software Developer
+C0199,Excel,Shortlisted,Software Developer
+C0199,Java,Shortlisted,Software Developer
+C0200,AWS,Rejected,HR Analyst
+C0200,Power BI,Rejected,HR Analyst
+C0200,HTML/CSS,Rejected,HR Analyst
+C0200,Communication,Rejected,HR Analyst
+C0201,Python,Rejected,HR Analyst
+C0201,Communication,Rejected,HR Analyst
+C0201,Power BI,Rejected,HR Analyst
+C0202,Power BI,Rejected,Business Analyst
+C0202,Java,Rejected,Business Analyst
+C0202,Statistics,Rejected,Business Analyst
+C0202,Communication,Rejected,Business Analyst
+C0202,AWS,Rejected,Business Analyst
+C0202,Python,Rejected,Business Analyst
+C0203,SQL,Interview,Data Analyst
+C0203,Excel,Interview,Data Analyst
+C0203,Power BI,Interview,Data Analyst
+C0203,Tableau,Interview,Data Analyst
+C0203,Communication,Interview,Data Analyst
+C0204,Java,Interview,Business Analyst
+C0204,Tableau,Interview,Business Analyst
+C0204,Python,Interview,Business Analyst
+C0204,Excel,Interview,Business Analyst
+C0204,AWS,Interview,Business Analyst
+C0204,Machine Learning,Interview,Business Analyst
+C0205,SQL,Interview,Data Analyst
+C0205,Excel,Interview,Data Analyst
+C0205,Power BI,Interview,Data Analyst
+C0205,Communication,Interview,Data Analyst
+C0205,Tableau,Interview,Data Analyst
+C0205,HTML/CSS,Interview,Data Analyst
+C0206,Tableau,Rejected,QA Engineer
+C0206,HTML/CSS,Rejected,QA Engineer
+C0206,Git,Rejected,QA Engineer
+C0206,Machine Learning,Rejected,QA Engineer
+C0207,Python,Screening,Data Scientist
+C0207,Statistics,Screening,Data Scientist
+C0207,Machine Learning,Screening,Data Scientist
+C0207,Tableau,Screening,Data Scientist
+C0207,Power BI,Screening,Data Scientist
+C0207,Git,Screening,Data Scientist
+C0208,SQL,Interview,Data Analyst
+C0208,Excel,Interview,Data Analyst
+C0208,Power BI,Interview,Data Analyst
+C0208,Machine Learning,Interview,Data Analyst
+C0208,Java,Interview,Data Analyst
+C0208,Communication,Interview,Data Analyst
+C0209,Python,Shortlisted,Data Scientist
+C0209,Statistics,Shortlisted,Data Scientist
+C0209,Machine Learning,Shortlisted,Data Scientist
+C0209,HTML/CSS,Shortlisted,Data Scientist
+C0209,Git,Shortlisted,Data Scientist
+C0209,Power BI,Shortlisted,Data Scientist
+C0210,Git,Screening,Business Analyst
+C0210,Statistics,Screening,Business Analyst
+C0210,SQL,Screening,Business Analyst
+C0210,Machine Learning,Screening,Business Analyst
+C0211,Power BI,Shortlisted,HR Analyst
+C0211,Tableau,Shortlisted,HR Analyst
+C0211,Excel,Shortlisted,HR Analyst
+C0211,Communication,Shortlisted,HR Analyst
+C0211,Statistics,Shortlisted,HR Analyst
+C0212,Python,Selected,QA Engineer
+C0212,Power BI,Selected,QA Engineer
+C0212,Java,Selected,QA Engineer
+C0213,Power BI,Shortlisted,Business Analyst
+C0213,Statistics,Shortlisted,Business Analyst
+C0213,Git,Shortlisted,Business Analyst
+C0213,AWS,Shortlisted,Business Analyst
+C0213,HTML/CSS,Shortlisted,Business Analyst
+C0214,Python,Selected,Data Scientist
+C0214,Statistics,Selected,Data Scientist
+C0214,Machine Learning,Selected,Data Scientist
+C0214,Tableau,Selected,Data Scientist
+C0214,Communication,Selected,Data Scientist
+C0214,HTML/CSS,Selected,Data Scientist
+C0215,Python,Interview,Business Analyst
+C0215,Machine Learning,Interview,Business Analyst
+C0215,Git,Interview,Business Analyst
+C0215,Java,Interview,Business Analyst
+C0215,HTML/CSS,Interview,Business Analyst
+C0215,Excel,Interview,Business Analyst
+C0216,SQL,Selected,Data Analyst
+C0216,Excel,Selected,Data Analyst
+C0216,Power BI,Selected,Data Analyst
+C0216,HTML/CSS,Selected,Data Analyst
+C0216,Statistics,Selected,Data Analyst
+C0217,Python,Interview,Data Scientist
+C0217,Statistics,Interview,Data Scientist
+C0217,Machine Learning,Interview,Data Scientist
+C0217,Communication,Interview,Data Scientist
+C0217,SQL,Interview,Data Scientist
+C0217,AWS,Interview,Data Scientist
+C0218,AWS,Rejected,HR Analyst
+C0218,Python,Rejected,HR Analyst
+C0218,Statistics,Rejected,HR Analyst
+C0219,AWS,Selected,Software Developer
+C0219,Communication,Selected,Software Developer
+C0219,HTML/CSS,Selected,Software Developer
+C0219,Git,Selected,Software Developer
+C0219,Python,Selected,Software Developer
+C0220,Git,Rejected,QA Engineer
+C0220,Excel,Rejected,QA Engineer
+C0220,Java,Rejected,QA Engineer
+C0221,SQL,Shortlisted,Data Analyst
+C0221,Excel,Shortlisted,Data Analyst
+C0221,Power BI,Shortlisted,Data Analyst
+C0221,Communication,Shortlisted,Data Analyst
+C0221,AWS,Shortlisted,Data Analyst
+C0221,HTML/CSS,Shortlisted,Data Analyst
+C0222,Machine Learning,Interview,QA Engineer
+C0222,AWS,Interview,QA Engineer
+C0222,SQL,Interview,QA Engineer
+C0222,Java,Interview,QA Engineer
+C0222,Git,Interview,QA Engineer
+C0223,Python,Selected,Data Scientist
+C0223,Statistics,Selected,Data Scientist
+C0223,Machine Learning,Selected,Data Scientist
+C0223,HTML/CSS,Selected,Data Scientist
+C0223,Git,Selected,Data Scientist
+C0223,Excel,Selected,Data Scientist
+C0224,Statistics,Selected,Business Analyst
+C0224,HTML/CSS,Selected,Business Analyst
+C0224,Python,Selected,Business Analyst
+C0224,AWS,Selected,Business Analyst
+C0224,Tableau,Selected,Business Analyst
+C0224,Communication,Selected,Business Analyst
+C0225,Tableau,Selected,HR Analyst
+C0225,SQL,Selected,HR Analyst
+C0225,Machine Learning,Selected,HR Analyst
+C0225,HTML/CSS,Selected,HR Analyst
+C0226,Excel,Shortlisted,Software Developer
+C0226,AWS,Shortlisted,Software Developer
+C0226,HTML/CSS,Shortlisted,Software Developer
+C0226,Power BI,Shortlisted,Software Developer
+C0226,Statistics,Shortlisted,Software Developer
+C0226,Communication,Shortlisted,Software Developer
+C0227,Tableau,Interview,QA Engineer
+C0227,AWS,Interview,QA Engineer
+C0227,HTML/CSS,Interview,QA Engineer
+C0227,Statistics,Interview,QA Engineer
+C0227,Python,Interview,QA Engineer
+C0228,SQL,Rejected,Data Analyst
+C0228,Excel,Rejected,Data Analyst
+C0228,Power BI,Rejected,Data Analyst
+C0228,Java,Rejected,Data Analyst
+C0228,Communication,Rejected,Data Analyst
+C0229,Communication,Shortlisted,HR Analyst
+C0229,Statistics,Shortlisted,HR Analyst
+C0229,Tableau,Shortlisted,HR Analyst
+C0230,Git,Interview,Business Analyst
+C0230,HTML/CSS,Interview,Business Analyst
+C0230,Java,Interview,Business Analyst
+C0230,Python,Interview,Business Analyst
+C0230,Communication,Interview,Business Analyst
+C0230,Statistics,Interview,Business Analyst
+C0231,Python,Shortlisted,Data Scientist
+C0231,Statistics,Shortlisted,Data Scientist
+C0231,Machine Learning,Shortlisted,Data Scientist
+C0231,AWS,Shortlisted,Data Scientist
+C0231,Java,Shortlisted,Data Scientist
+C0231,SQL,Shortlisted,Data Scientist
+C0232,SQL,Selected,Data Analyst
+C0232,Excel,Selected,Data Analyst
+C0232,Power BI,Selected,Data Analyst
+C0232,Tableau,Selected,Data Analyst
+C0232,Git,Selected,Data Analyst
+C0232,AWS,Selected,Data Analyst
+C0233,HTML/CSS,Selected,Business Analyst
+C0233,Power BI,Selected,Business Analyst
+C0233,Communication,Selected,Business Analyst
+C0233,Python,Selected,Business Analyst
+C0233,Statistics,Selected,Business Analyst
+C0234,SQL,Applied,Software Developer
+C0234,Java,Applied,Software Developer
+C0234,Python,Applied,Software Developer
+C0235,Python,Screening,Data Scientist
+C0235,Statistics,Screening,Data Scientist
+C0235,Machine Learning,Screening,Data Scientist
+C0235,Java,Screening,Data Scientist
+C0235,HTML/CSS,Screening,Data Scientist
+C0235,Tableau,Screening,Data Scientist
+C0236,AWS,Selected,HR Analyst
+C0236,Git,Selected,HR Analyst
+C0236,Excel,Selected,HR Analyst
+C0237,Power BI,Rejected,HR Analyst
+C0237,Python,Rejected,HR Analyst
+C0237,Git,Rejected,HR Analyst
+C0237,Excel,Rejected,HR Analyst
+C0237,AWS,Rejected,HR Analyst
+C0237,Tableau,Rejected,HR Analyst
+C0238,Power BI,Rejected,Business Analyst
+C0238,Statistics,Rejected,Business Analyst
+C0238,AWS,Rejected,Business Analyst
+C0239,HTML/CSS,Rejected,HR Analyst
+C0239,Communication,Rejected,HR Analyst
+C0239,Tableau,Rejected,HR Analyst
+C0239,SQL,Rejected,HR Analyst
+C0240,SQL,Rejected,Data Analyst
+C0240,Excel,Rejected,Data Analyst
+C0240,Power BI,Rejected,Data Analyst
+C0240,Java,Rejected,Data Analyst
+C0240,HTML/CSS,Rejected,Data Analyst
+C0241,AWS,Applied,Business Analyst
+C0241,Python,Applied,Business Analyst
+C0241,SQL,Applied,Business Analyst
+C0242,SQL,Shortlisted,Data Analyst
+C0242,Excel,Shortlisted,Data Analyst
+C0242,Power BI,Shortlisted,Data Analyst
+C0242,Communication,Shortlisted,Data Analyst
+C0242,HTML/CSS,Shortlisted,Data Analyst
+C0242,Python,Shortlisted,Data Analyst
+C0243,Tableau,Screening,QA Engineer
+C0243,Communication,Screening,QA Engineer
+C0243,Power BI,Screening,QA Engineer
+C0244,Python,Rejected,Data Scientist
+C0244,Statistics,Rejected,Data Scientist
+C0244,Machine Learning,Rejected,Data Scientist
+C0244,Git,Rejected,Data Scientist
+C0244,HTML/CSS,Rejected,Data Scientist
+C0244,Excel,Rejected,Data Scientist
+C0245,Java,Rejected,Software Developer
+C0245,Excel,Rejected,Software Developer
+C0245,Tableau,Rejected,Software Developer
+C0245,Python,Rejected,Software Developer
+C0246,Machine Learning,Rejected,Business Analyst
+C0246,HTML/CSS,Rejected,Business Analyst
+C0246,Statistics,Rejected,Business Analyst
+C0247,Power BI,Applied,QA Engineer
+C0247,Statistics,Applied,QA Engineer
+C0247,SQL,Applied,QA Engineer
+C0248,SQL,Selected,Software Developer
+C0248,Statistics,Selected,Software Developer
+C0248,Communication,Selected,Software Developer
+C0248,Power BI,Selected,Software Developer
+C0249,Excel,Shortlisted,Business Analyst
+C0249,Power BI,Shortlisted,Business Analyst
+C0249,Statistics,Shortlisted,Business Analyst
+C0250,Python,Rejected,Data Scientist
+C0250,Statistics,Rejected,Data Scientist
+C0250,Machine Learning,Rejected,Data Scientist
+C0250,SQL,Rejected,Data Scientist
+C0250,Java,Rejected,Data Scientist
+C0251,Power BI,Selected,HR Analyst
+C0251,Statistics,Selected,HR Analyst
+C0251,HTML/CSS,Selected,HR Analyst
+C0251,Excel,Selected,HR Analyst
+C0251,SQL,Selected,HR Analyst
+C0251,AWS,Selected,HR Analyst
+C0252,HTML/CSS,Interview,HR Analyst
+C0252,Tableau,Interview,HR Analyst
+C0252,Python,Interview,HR Analyst
+C0252,Power BI,Interview,HR Analyst
+C0252,Statistics,Interview,HR Analyst
+C0252,Machine Learning,Interview,HR Analyst
+C0253,HTML/CSS,Rejected,HR Analyst
+C0253,Java,Rejected,HR Analyst
+C0253,Machine Learning,Rejected,HR Analyst
+C0253,Python,Rejected,HR Analyst
+C0253,Statistics,Rejected,HR Analyst
+C0253,Tableau,Rejected,HR Analyst
+C0254,SQL,Rejected,Data Analyst
+C0254,Excel,Rejected,Data Analyst
+C0254,Power BI,Rejected,Data Analyst
+C0254,Tableau,Rejected,Data Analyst
+C0254,HTML/CSS,Rejected,Data Analyst
+C0254,Java,Rejected,Data Analyst
+C0255,Excel,Selected,Business Analyst
+C0255,Python,Selected,Business Analyst
+C0255,HTML/CSS,Selected,Business Analyst
+C0256,SQL,Shortlisted,Data Analyst
+C0256,Excel,Shortlisted,Data Analyst
+C0256,Power BI,Shortlisted,Data Analyst
+C0256,Tableau,Shortlisted,Data Analyst
+C0256,Machine Learning,Shortlisted,Data Analyst
+C0256,HTML/CSS,Shortlisted,Data Analyst
+C0257,Java,Rejected,Software Developer
+C0257,Communication,Rejected,Software Developer
+C0257,Statistics,Rejected,Software Developer
+C0257,SQL,Rejected,Software Developer
+C0258,SQL,Selected,Data Analyst
+C0258,Excel,Selected,Data Analyst
+C0258,Power BI,Selected,Data Analyst
+C0258,Python,Selected,Data Analyst
+C0258,Machine Learning,Selected,Data Analyst
+C0258,HTML/CSS,Selected,Data Analyst
+C0259,AWS,Selected,Software Developer
+C0259,HTML/CSS,Selected,Software Developer
+C0259,Tableau,Selected,Software Developer
+C0260,Python,Interview,Software Developer
+C0260,SQL,Interview,Software Developer
+C0260,Machine Learning,Interview,Software Developer
+C0260,Git,Interview,Software Developer
+C0260,Excel,Interview,Software Developer
+C0261,Python,Shortlisted,Data Scientist
+C0261,Statistics,Shortlisted,Data Scientist
+C0261,Machine Learning,Shortlisted,Data Scientist
+C0261,Power BI,Shortlisted,Data Scientist
+C0261,Excel,Shortlisted,Data Scientist
+C0261,Tableau,Shortlisted,Data Scientist
+C0262,SQL,Interview,HR Analyst
+C0262,Python,Interview,HR Analyst
+C0262,Tableau,Interview,HR Analyst
+C0262,Communication,Interview,HR Analyst
+C0262,Excel,Interview,HR Analyst
+C0262,Power BI,Interview,HR Analyst
+C0263,Statistics,Interview,HR Analyst
+C0263,Machine Learning,Interview,HR Analyst
+C0263,Java,Interview,HR Analyst
+C0263,HTML/CSS,Interview,HR Analyst
+C0263,AWS,Interview,HR Analyst
+C0263,Power BI,Interview,HR Analyst
+C0264,Machine Learning,Selected,Business Analyst
+C0264,Statistics,Selected,Business Analyst
+C0264,Java,Selected,Business Analyst
+C0265,SQL,Rejected,Data Analyst
+C0265,Excel,Rejected,Data Analyst
+C0265,Power BI,Rejected,Data Analyst
+C0265,AWS,Rejected,Data Analyst
+C0265,Communication,Rejected,Data Analyst
+C0265,Java,Rejected,Data Analyst
+C0266,AWS,Rejected,HR Analyst
+C0266,HTML/CSS,Rejected,HR Analyst
+C0266,Excel,Rejected,HR Analyst
+C0266,Power BI,Rejected,HR Analyst
+C0266,Machine Learning,Rejected,HR Analyst
+C0267,Python,Interview,Data Scientist
+C0267,Statistics,Interview,Data Scientist
+C0267,Machine Learning,Interview,Data Scientist
+C0267,SQL,Interview,Data Scientist
+C0267,HTML/CSS,Interview,Data Scientist
+C0268,SQL,Screening,Software Developer
+C0268,Excel,Screening,Software Developer
+C0268,AWS,Screening,Software Developer
+C0269,AWS,Applied,QA Engineer
+C0269,Python,Applied,QA Engineer
+C0269,Java,Applied,QA Engineer
+C0269,Tableau,Applied,QA Engineer
+C0269,HTML/CSS,Applied,QA Engineer
+C0269,Git,Applied,QA Engineer
+C0270,Power BI,Rejected,HR Analyst
+C0270,Git,Rejected,HR Analyst
+C0270,AWS,Rejected,HR Analyst
+C0270,Excel,Rejected,HR Analyst
+C0270,Communication,Rejected,HR Analyst
+C0271,AWS,Selected,Software Developer
+C0271,SQL,Selected,Software Developer
+C0271,Excel,Selected,Software Developer
+C0271,Java,Selected,Software Developer
+C0271,Power BI,Selected,Software Developer
+C0271,Statistics,Selected,Software Developer
+C0272,Git,Selected,Software Developer
+C0272,Python,Selected,Software Developer
+C0272,Java,Selected,Software Developer
+C0272,Machine Learning,Selected,Software Developer
+C0273,SQL,Rejected,HR Analyst
+C0273,Communication,Rejected,HR Analyst
+C0273,Machine Learning,Rejected,HR Analyst
+C0274,Python,Selected,Data Scientist
+C0274,Statistics,Selected,Data Scientist
+C0274,Machine Learning,Selected,Data Scientist
+C0274,AWS,Selected,Data Scientist
+C0274,Git,Selected,Data Scientist
+C0274,Power BI,Selected,Data Scientist
+C0275,Excel,Shortlisted,Business Analyst
+C0275,Python,Shortlisted,Business Analyst
+C0275,Statistics,Shortlisted,Business Analyst
+C0275,Git,Shortlisted,Business Analyst
+C0275,Java,Shortlisted,Business Analyst
+C0275,Tableau,Shortlisted,Business Analyst
+C0276,Excel,Screening,HR Analyst
+C0276,SQL,Screening,HR Analyst
+C0276,Python,Screening,HR Analyst
+C0276,Java,Screening,HR Analyst
+C0276,Power BI,Screening,HR Analyst
+C0276,AWS,Screening,HR Analyst
+C0277,AWS,Interview,HR Analyst
+C0277,Statistics,Interview,HR Analyst
+C0277,Machine Learning,Interview,HR Analyst
+C0277,Excel,Interview,HR Analyst
+C0277,SQL,Interview,HR Analyst
+C0277,Git,Interview,HR Analyst
+C0278,Excel,Rejected,Business Analyst
+C0278,Git,Rejected,Business Analyst
+C0278,Tableau,Rejected,Business Analyst
+C0278,Python,Rejected,Business Analyst
+C0279,Python,Interview,Business Analyst
+C0279,Git,Interview,Business Analyst
+C0279,Statistics,Interview,Business Analyst
+C0279,Communication,Interview,Business Analyst
+C0279,Excel,Interview,Business Analyst
+C0280,Tableau,Shortlisted,Business Analyst
+C0280,Power BI,Shortlisted,Business Analyst
+C0280,HTML/CSS,Shortlisted,Business Analyst
+C0280,SQL,Shortlisted,Business Analyst
+C0280,Excel,Shortlisted,Business Analyst
+C0280,Communication,Shortlisted,Business Analyst
+C0281,Statistics,Rejected,QA Engineer
+C0281,Git,Rejected,QA Engineer
+C0281,Machine Learning,Rejected,QA Engineer
+C0281,Power BI,Rejected,QA Engineer
+C0281,AWS,Rejected,QA Engineer
+C0281,Excel,Rejected,QA Engineer
+C0282,Excel,Shortlisted,QA Engineer
+C0282,Power BI,Shortlisted,QA Engineer
+C0282,Git,Shortlisted,QA Engineer
+C0282,HTML/CSS,Shortlisted,QA Engineer
+C0283,AWS,Screening,HR Analyst
+C0283,Tableau,Screening,HR Analyst
+C0283,Java,Screening,HR Analyst
+C0283,Python,Screening,HR Analyst
+C0284,Python,Selected,QA Engineer
+C0284,Communication,Selected,QA Engineer
+C0284,Excel,Selected,QA Engineer
+C0284,AWS,Selected,QA Engineer
+C0284,HTML/CSS,Selected,QA Engineer
+C0284,SQL,Selected,QA Engineer
+C0285,AWS,Rejected,QA Engineer
+C0285,HTML/CSS,Rejected,QA Engineer
+C0285,Machine Learning,Rejected,QA Engineer
+C0285,SQL,Rejected,QA Engineer
+C0285,Excel,Rejected,QA Engineer
+C0285,Git,Rejected,QA Engineer
+C0286,SQL,Rejected,Data Analyst
+C0286,Excel,Rejected,Data Analyst
+C0286,Power BI,Rejected,Data Analyst
+C0286,Tableau,Rejected,Data Analyst
+C0286,Java,Rejected,Data Analyst
+C0286,Git,Rejected,Data Analyst
+C0287,Tableau,Rejected,HR Analyst
+C0287,Machine Learning,Rejected,HR Analyst
+C0287,Java,Rejected,HR Analyst
+C0287,HTML/CSS,Rejected,HR Analyst
+C0288,Statistics,Rejected,Software Developer
+C0288,Java,Rejected,Software Developer
+C0288,SQL,Rejected,Software Developer
+C0288,HTML/CSS,Rejected,Software Developer
+C0288,Excel,Rejected,Software Developer
+C0288,AWS,Rejected,Software Developer
+C0289,Power BI,Interview,Software Developer
+C0289,SQL,Interview,Software Developer
+C0289,Machine Learning,Interview,Software Developer
+C0290,Git,Screening,HR Analyst
+C0290,Python,Screening,HR Analyst
+C0290,SQL,Screening,HR Analyst
+C0290,Power BI,Screening,HR Analyst
+C0290,Java,Screening,HR Analyst
+C0290,Statistics,Screening,HR Analyst
+C0291,Python,Rejected,Data Scientist
+C0291,Statistics,Rejected,Data Scientist
+C0291,Machine Learning,Rejected,Data Scientist
+C0291,Tableau,Rejected,Data Scientist
+C0291,SQL,Rejected,Data Scientist
+C0291,Communication,Rejected,Data Scientist
+C0292,Statistics,Shortlisted,Software Developer
+C0292,SQL,Shortlisted,Software Developer
+C0292,Git,Shortlisted,Software Developer
+C0292,Machine Learning,Shortlisted,Software Developer
+C0292,Excel,Shortlisted,Software Developer
+C0292,Java,Shortlisted,Software Developer
+C0293,Communication,Rejected,Software Developer
+C0293,HTML/CSS,Rejected,Software Developer
+C0293,Java,Rejected,Software Developer
+C0293,Machine Learning,Rejected,Software Developer
+C0293,Tableau,Rejected,Software Developer
+C0294,Statistics,Shortlisted,HR Analyst
+C0294,Git,Shortlisted,HR Analyst
+C0294,AWS,Shortlisted,HR Analyst
+C0294,Tableau,Shortlisted,HR Analyst
+C0294,HTML/CSS,Shortlisted,HR Analyst
+C0295,Power BI,Selected,Business Analyst
+C0295,Excel,Selected,Business Analyst
+C0295,Statistics,Selected,Business Analyst
+C0295,HTML/CSS,Selected,Business Analyst
+C0295,SQL,Selected,Business Analyst
+C0296,Communication,Selected,HR Analyst
+C0296,HTML/CSS,Selected,HR Analyst
+C0296,Git,Selected,HR Analyst
+C0296,SQL,Selected,HR Analyst
+C0296,Power BI,Selected,HR Analyst
+C0297,Tableau,Interview,HR Analyst
+C0297,Python,Interview,HR Analyst
+C0297,Machine Learning,Interview,HR Analyst
+C0297,Excel,Interview,HR Analyst
+C0298,Communication,Rejected,HR Analyst
+C0298,Java,Rejected,HR Analyst
+C0298,Git,Rejected,HR Analyst
+C0298,Tableau,Rejected,HR Analyst
+C0298,Statistics,Rejected,HR Analyst
+C0299,Python,Shortlisted,Data Scientist
+C0299,Statistics,Shortlisted,Data Scientist
+C0299,Machine Learning,Shortlisted,Data Scientist
+C0299,Git,Shortlisted,Data Scientist
+C0299,Communication,Shortlisted,Data Scientist
+C0300,Excel,Rejected,Software Developer
+C0300,Java,Rejected,Software Developer
+C0300,HTML/CSS,Rejected,Software Developer
+C0300,Python,Rejected,Software Developer
+C0300,Machine Learning,Rejected,Software Developer
+C0300,AWS,Rejected,Software Developer
+C0301,SQL,Interview,Data Analyst
+C0301,Excel,Interview,Data Analyst
+C0301,Power BI,Interview,Data Analyst
+C0301,Machine Learning,Interview,Data Analyst
+C0301,Python,Interview,Data Analyst
+C0301,Communication,Interview,Data Analyst
+C0302,Python,Rejected,Data Scientist
+C0302,Statistics,Rejected,Data Scientist
+C0302,Machine Learning,Rejected,Data Scientist
+C0302,SQL,Rejected,Data Scientist
+C0302,Java,Rejected,Data Scientist
+C0302,Power BI,Rejected,Data Scientist
+C0303,Statistics,Rejected,Software Developer
+C0303,AWS,Rejected,Software Developer
+C0303,Tableau,Rejected,Software Developer
+C0303,Excel,Rejected,Software Developer
+C0303,Python,Rejected,Software Developer
+C0303,Communication,Rejected,Software Developer
+C0304,Python,Interview,Data Scientist
+C0304,Statistics,Interview,Data Scientist
+C0304,Machine Learning,Interview,Data Scientist
+C0304,Java,Interview,Data Scientist
+C0304,HTML/CSS,Interview,Data Scientist
+C0304,Power BI,Interview,Data Scientist
+C0305,SQL,Applied,Data Analyst
+C0305,Excel,Applied,Data Analyst
+C0305,Power BI,Applied,Data Analyst
+C0305,HTML/CSS,Applied,Data Analyst
+C0305,AWS,Applied,Data Analyst
+C0305,Statistics,Applied,Data Analyst
+C0306,Statistics,Shortlisted,HR Analyst
+C0306,AWS,Shortlisted,HR Analyst
+C0306,SQL,Shortlisted,HR Analyst
+C0306,Git,Shortlisted,HR Analyst
+C0306,Python,Shortlisted,HR Analyst
+C0307,Python,Applied,Data Scientist
+C0307,Statistics,Applied,Data Scientist
+C0307,Machine Learning,Applied,Data Scientist
+C0307,HTML/CSS,Applied,Data Scientist
+C0307,Excel,Applied,Data Scientist
+C0307,Power BI,Applied,Data Scientist
+C0308,Tableau,Interview,QA Engineer
+C0308,Python,Interview,QA Engineer
+C0308,Git,Interview,QA Engineer
+C0309,Excel,Rejected,Business Analyst
+C0309,SQL,Rejected,Business Analyst
+C0309,Statistics,Rejected,Business Analyst
+C0309,Machine Learning,Rejected,Business Analyst
+C0309,Power BI,Rejected,Business Analyst
+C0310,SQL,Rejected,Data Analyst
+C0310,Excel,Rejected,Data Analyst
+C0310,Power BI,Rejected,Data Analyst
+C0310,Python,Rejected,Data Analyst
+C0310,Statistics,Rejected,Data Analyst
+C0310,Git,Rejected,Data Analyst
+C0311,Tableau,Shortlisted,Business Analyst
+C0311,Java,Shortlisted,Business Analyst
+C0311,Git,Shortlisted,Business Analyst
+C0312,SQL,Applied,Data Analyst
+C0312,Excel,Applied,Data Analyst
+C0312,Power BI,Applied,Data Analyst
+C0312,Java,Applied,Data Analyst
+C0312,HTML/CSS,Applied,Data Analyst
+C0312,Machine Learning,Applied,Data Analyst
+C0313,Communication,Screening,Software Developer
+C0313,Machine Learning,Screening,Software Developer
+C0313,HTML/CSS,Screening,Software Developer
+C0313,Excel,Screening,Software Developer
+C0313,Python,Screening,Software Developer
+C0314,Excel,Rejected,Software Developer
+C0314,AWS,Rejected,Software Developer
+C0314,Communication,Rejected,Software Developer
+C0314,Java,Rejected,Software Developer
+C0314,SQL,Rejected,Software Developer
+C0314,Git,Rejected,Software Developer
+C0315,SQL,Shortlisted,Data Analyst
+C0315,Excel,Shortlisted,Data Analyst
+C0315,Power BI,Shortlisted,Data Analyst
+C0315,Git,Shortlisted,Data Analyst
+C0315,Statistics,Shortlisted,Data Analyst
+C0315,Java,Shortlisted,Data Analyst
+C0316,Python,Rejected,Data Scientist
+C0316,Statistics,Rejected,Data Scientist
+C0316,Machine Learning,Rejected,Data Scientist
+C0316,Excel,Rejected,Data Scientist
+C0316,AWS,Rejected,Data Scientist
+C0316,SQL,Rejected,Data Scientist
+C0317,Python,Screening,Data Scientist
+C0317,Statistics,Screening,Data Scientist
+C0317,Machine Learning,Screening,Data Scientist
+C0317,Power BI,Screening,Data Scientist
+C0317,Java,Screening,Data Scientist
+C0317,Tableau,Screening,Data Scientist
+C0318,Python,Rejected,Data Scientist
+C0318,Statistics,Rejected,Data Scientist
+C0318,Machine Learning,Rejected,Data Scientist
+C0318,Git,Rejected,Data Scientist
+C0318,Java,Rejected,Data Scientist
+C0318,HTML/CSS,Rejected,Data Scientist
+C0319,Python,Selected,Data Scientist
+C0319,Statistics,Selected,Data Scientist
+C0319,Machine Learning,Selected,Data Scientist
+C0319,HTML/CSS,Selected,Data Scientist
+C0319,Power BI,Selected,Data Scientist
+C0319,Java,Selected,Data Scientist
+C0320,Python,Selected,Data Scientist
+C0320,Statistics,Selected,Data Scientist
+C0320,Machine Learning,Selected,Data Scientist
+C0320,HTML/CSS,Selected,Data Scientist
+C0320,Power BI,Selected,Data Scientist
+C0320,SQL,Selected,Data Scientist
+C0321,HTML/CSS,Rejected,HR Analyst
+C0321,Communication,Rejected,HR Analyst
+C0321,Python,Rejected,HR Analyst
+C0321,Tableau,Rejected,HR Analyst
+C0322,SQL,Applied,Data Analyst
+C0322,Excel,Applied,Data Analyst
+C0322,Power BI,Applied,Data Analyst
+C0322,Python,Applied,Data Analyst
+C0322,Communication,Applied,Data Analyst
+C0322,HTML/CSS,Applied,Data Analyst
+C0323,Python,Shortlisted,Data Scientist
+C0323,Statistics,Shortlisted,Data Scientist
+C0323,Machine Learning,Shortlisted,Data Scientist
+C0323,Excel,Shortlisted,Data Scientist
+C0323,AWS,Shortlisted,Data Scientist
+C0323,Git,Shortlisted,Data Scientist
+C0324,Tableau,Rejected,QA Engineer
+C0324,Communication,Rejected,QA Engineer
+C0324,Java,Rejected,QA Engineer
+C0324,HTML/CSS,Rejected,QA Engineer
+C0325,HTML/CSS,Applied,Software Developer
+C0325,Statistics,Applied,Software Developer
+C0325,Power BI,Applied,Software Developer
+C0325,AWS,Applied,Software Developer
+C0325,Git,Applied,Software Developer
+C0326,Statistics,Screening,HR Analyst
+C0326,HTML/CSS,Screening,HR Analyst
+C0326,Java,Screening,HR Analyst
+C0326,Python,Screening,HR Analyst
+C0327,Communication,Applied,QA Engineer
+C0327,SQL,Applied,QA Engineer
+C0327,Statistics,Applied,QA Engineer
+C0327,Python,Applied,QA Engineer
+C0327,Git,Applied,QA Engineer
+C0328,Git,Screening,HR Analyst
+C0328,Tableau,Screening,HR Analyst
+C0328,Excel,Screening,HR Analyst
+C0328,SQL,Screening,HR Analyst
+C0328,HTML/CSS,Screening,HR Analyst
+C0329,HTML/CSS,Interview,Business Analyst
+C0329,Git,Interview,Business Analyst
+C0329,Statistics,Interview,Business Analyst
+C0329,Communication,Interview,Business Analyst
+C0330,Git,Shortlisted,HR Analyst
+C0330,Java,Shortlisted,HR Analyst
+C0330,Statistics,Shortlisted,HR Analyst
+C0330,SQL,Shortlisted,HR Analyst
+C0330,AWS,Shortlisted,HR Analyst
+C0330,HTML/CSS,Shortlisted,HR Analyst
+C0331,HTML/CSS,Applied,Software Developer
+C0331,Power BI,Applied,Software Developer
+C0331,Tableau,Applied,Software Developer
+C0331,Machine Learning,Applied,Software Developer
+C0332,Statistics,Shortlisted,Software Developer
+C0332,Tableau,Shortlisted,Software Developer
+C0332,Excel,Shortlisted,Software Developer
+C0332,AWS,Shortlisted,Software Developer
+C0332,Git,Shortlisted,Software Developer
+C0333,Git,Rejected,HR Analyst
+C0333,AWS,Rejected,HR Analyst
+C0333,Tableau,Rejected,HR Analyst
+C0334,SQL,Screening,Data Analyst
+C0334,Excel,Screening,Data Analyst
+C0334,Power BI,Screening,Data Analyst
+C0334,Statistics,Screening,Data Analyst
+C0334,Communication,Screening,Data Analyst
+C0335,SQL,Selected,Data Analyst
+C0335,Excel,Selected,Data Analyst
+C0335,Power BI,Selected,Data Analyst
+C0335,Java,Selected,Data Analyst
+C0335,HTML/CSS,Selected,Data Analyst
+C0335,Tableau,Selected,Data Analyst
+C0336,Python,Shortlisted,Data Scientist
+C0336,Statistics,Shortlisted,Data Scientist
+C0336,Machine Learning,Shortlisted,Data Scientist
+C0336,Communication,Shortlisted,Data Scientist
+C0336,HTML/CSS,Shortlisted,Data Scientist
+C0336,Tableau,Shortlisted,Data Scientist
+C0337,Java,Shortlisted,QA Engineer
+C0337,Statistics,Shortlisted,QA Engineer
+C0337,Python,Shortlisted,QA Engineer
+C0337,AWS,Shortlisted,QA Engineer
+C0338,Python,Rejected,HR Analyst
+C0338,Power BI,Rejected,HR Analyst
+C0338,Statistics,Rejected,HR Analyst
+C0338,Communication,Rejected,HR Analyst
+C0338,HTML/CSS,Rejected,HR Analyst
+C0338,Java,Rejected,HR Analyst
+C0339,Tableau,Shortlisted,HR Analyst
+C0339,Statistics,Shortlisted,HR Analyst
+C0339,Python,Shortlisted,HR Analyst
+C0339,Power BI,Shortlisted,HR Analyst
+C0340,Python,Shortlisted,Data Scientist
+C0340,Statistics,Shortlisted,Data Scientist
+C0340,Machine Learning,Shortlisted,Data Scientist
+C0340,Git,Shortlisted,Data Scientist
+C0340,SQL,Shortlisted,Data Scientist
+C0340,HTML/CSS,Shortlisted,Data Scientist
+C0341,AWS,Shortlisted,Business Analyst
+C0341,Python,Shortlisted,Business Analyst
+C0341,Tableau,Shortlisted,Business Analyst
+C0341,Machine Learning,Shortlisted,Business Analyst
+C0341,Communication,Shortlisted,Business Analyst
+C0342,Python,Interview,Data Scientist
+C0342,Statistics,Interview,Data Scientist
+C0342,Machine Learning,Interview,Data Scientist
+C0342,Git,Interview,Data Scientist
+C0342,Excel,Interview,Data Scientist
+C0342,Tableau,Interview,Data Scientist
+C0343,SQL,Selected,Data Analyst
+C0343,Excel,Selected,Data Analyst
+C0343,Power BI,Selected,Data Analyst
+C0343,Tableau,Selected,Data Analyst
+C0343,Java,Selected,Data Analyst
+C0344,Python,Shortlisted,Software Developer
+C0344,Excel,Shortlisted,Software Developer
+C0344,AWS,Shortlisted,Software Developer
+C0344,SQL,Shortlisted,Software Developer
+C0345,Java,Screening,Business Analyst
+C0345,HTML/CSS,Screening,Business Analyst
+C0345,Excel,Screening,Business Analyst
+C0345,Power BI,Screening,Business Analyst
+C0345,Python,Screening,Business Analyst
+C0345,AWS,Screening,Business Analyst
+C0346,HTML/CSS,Interview,Business Analyst
+C0346,AWS,Interview,Business Analyst
+C0346,Excel,Interview,Business Analyst
+C0346,Java,Interview,Business Analyst
+C0346,Statistics,Interview,Business Analyst
+C0347,Tableau,Rejected,Business Analyst
+C0347,Java,Rejected,Business Analyst
+C0347,Excel,Rejected,Business Analyst
+C0347,Git,Rejected,Business Analyst
+C0347,Machine Learning,Rejected,Business Analyst
+C0347,Power BI,Rejected,Business Analyst
+C0348,Python,Interview,Data Scientist
+C0348,Statistics,Interview,Data Scientist
+C0348,Machine Learning,Interview,Data Scientist
+C0348,Tableau,Interview,Data Scientist
+C0348,Excel,Interview,Data Scientist
+C0349,AWS,Applied,HR Analyst
+C0349,HTML/CSS,Applied,HR Analyst
+C0349,Communication,Applied,HR Analyst
+C0350,Communication,Rejected,QA Engineer
+C0350,Power BI,Rejected,QA Engineer
+C0350,AWS,Rejected,QA Engineer
+C0350,Tableau,Rejected,QA Engineer
+C0350,Excel,Rejected,QA Engineer
+C0351,Python,Screening,Data Scientist
+C0351,Statistics,Screening,Data Scientist
+C0351,Machine Learning,Screening,Data Scientist
+C0351,Excel,Screening,Data Scientist
+C0351,Git,Screening,Data Scientist
+C0352,Machine Learning,Interview,HR Analyst
+C0352,Power BI,Interview,HR Analyst
+C0352,Python,Interview,HR Analyst
+C0352,Tableau,Interview,HR Analyst
+C0353,SQL,Shortlisted,HR Analyst
+C0353,Git,Shortlisted,HR Analyst
+C0353,Java,Shortlisted,HR Analyst
+C0354,AWS,Screening,HR Analyst
+C0354,Git,Screening,HR Analyst
+C0354,Python,Screening,HR Analyst
+C0354,Statistics,Screening,HR Analyst
+C0354,Tableau,Screening,HR Analyst
+C0355,Machine Learning,Selected,QA Engineer
+C0355,AWS,Selected,QA Engineer
+C0355,SQL,Selected,QA Engineer
+C0355,Statistics,Selected,QA Engineer
+C0355,Excel,Selected,QA Engineer
+C0355,Power BI,Selected,QA Engineer
+C0356,Git,Rejected,Software Developer
+C0356,Power BI,Rejected,Software Developer
+C0356,Communication,Rejected,Software Developer
+C0357,Python,Selected,Data Scientist
+C0357,Statistics,Selected,Data Scientist
+C0357,Machine Learning,Selected,Data Scientist
+C0357,Git,Selected,Data Scientist
+C0357,Communication,Selected,Data Scientist
+C0357,SQL,Selected,Data Scientist
+C0358,Excel,Rejected,Software Developer
+C0358,Tableau,Rejected,Software Developer
+C0358,HTML/CSS,Rejected,Software Developer
+C0359,AWS,Applied,HR Analyst
+C0359,Machine Learning,Applied,HR Analyst
+C0359,Git,Applied,HR Analyst
+C0359,Excel,Applied,HR Analyst
+C0359,Power BI,Applied,HR Analyst
+C0359,Communication,Applied,HR Analyst
+C0360,Excel,Shortlisted,QA Engineer
+C0360,Git,Shortlisted,QA Engineer
+C0360,Java,Shortlisted,QA Engineer
+C0360,Machine Learning,Shortlisted,QA Engineer
+C0360,Python,Shortlisted,QA Engineer
+C0361,Excel,Rejected,Software Developer
+C0361,AWS,Rejected,Software Developer
+C0361,Python,Rejected,Software Developer
+C0361,HTML/CSS,Rejected,Software Developer
+C0361,Machine Learning,Rejected,Software Developer
+C0361,Tableau,Rejected,Software Developer
+C0362,SQL,Rejected,Data Analyst
+C0362,Excel,Rejected,Data Analyst
+C0362,Power BI,Rejected,Data Analyst
+C0362,Git,Rejected,Data Analyst
+C0362,HTML/CSS,Rejected,Data Analyst
+C0362,Communication,Rejected,Data Analyst
+C0363,SQL,Rejected,Data Analyst
+C0363,Excel,Rejected,Data Analyst
+C0363,Power BI,Rejected,Data Analyst
+C0363,Java,Rejected,Data Analyst
+C0363,AWS,Rejected,Data Analyst
+C0363,Git,Rejected,Data Analyst
+C0364,SQL,Rejected,Data Analyst
+C0364,Excel,Rejected,Data Analyst
+C0364,Power BI,Rejected,Data Analyst
+C0364,AWS,Rejected,Data Analyst
+C0364,Statistics,Rejected,Data Analyst
+C0364,Python,Rejected,Data Analyst
+C0365,Communication,Shortlisted,HR Analyst
+C0365,Git,Shortlisted,HR Analyst
+C0365,AWS,Shortlisted,HR Analyst
+C0365,Tableau,Shortlisted,HR Analyst
+C0366,Communication,Applied,QA Engineer
+C0366,Statistics,Applied,QA Engineer
+C0366,Git,Applied,QA Engineer
+C0366,Machine Learning,Applied,QA Engineer
+C0367,Git,Shortlisted,Business Analyst
+C0367,Python,Shortlisted,Business Analyst
+C0367,Power BI,Shortlisted,Business Analyst
+C0367,Machine Learning,Shortlisted,Business Analyst
+C0368,Excel,Rejected,QA Engineer
+C0368,Communication,Rejected,QA Engineer
+C0368,SQL,Rejected,QA Engineer
+C0369,Python,Rejected,Data Scientist
+C0369,Statistics,Rejected,Data Scientist
+C0369,Machine Learning,Rejected,Data Scientist
+C0369,Java,Rejected,Data Scientist
+C0369,AWS,Rejected,Data Scientist
+C0369,SQL,Rejected,Data Scientist
+C0370,Excel,Interview,QA Engineer
+C0370,Git,Interview,QA Engineer
+C0370,Machine Learning,Interview,QA Engineer
+C0371,AWS,Applied,HR Analyst
+C0371,Excel,Applied,HR Analyst
+C0371,SQL,Applied,HR Analyst
+C0371,Java,Applied,HR Analyst
+C0372,Communication,Shortlisted,Software Developer
+C0372,AWS,Shortlisted,Software Developer
+C0372,Power BI,Shortlisted,Software Developer
+C0372,Statistics,Shortlisted,Software Developer
+C0372,SQL,Shortlisted,Software Developer
+C0372,Java,Shortlisted,Software Developer
+C0373,AWS,Rejected,QA Engineer
+C0373,Power BI,Rejected,QA Engineer
+C0373,Machine Learning,Rejected,QA Engineer
+C0373,Communication,Rejected,QA Engineer
+C0374,Java,Rejected,Software Developer
+C0374,Python,Rejected,Software Developer
+C0374,Statistics,Rejected,Software Developer
+C0374,Tableau,Rejected,Software Developer
+C0374,AWS,Rejected,Software Developer
+C0375,AWS,Rejected,Software Developer
+C0375,SQL,Rejected,Software Developer
+C0375,Machine Learning,Rejected,Software Developer
+C0375,Python,Rejected,Software Developer
+C0375,Tableau,Rejected,Software Developer
+C0375,Git,Rejected,Software Developer
+C0376,Statistics,Shortlisted,HR Analyst
+C0376,HTML/CSS,Shortlisted,HR Analyst
+C0376,SQL,Shortlisted,HR Analyst
+C0376,Tableau,Shortlisted,HR Analyst
+C0376,Power BI,Shortlisted,HR Analyst
+C0377,Java,Applied,HR Analyst
+C0377,HTML/CSS,Applied,HR Analyst
+C0377,Power BI,Applied,HR Analyst
+C0377,Tableau,Applied,HR Analyst
+C0377,Excel,Applied,HR Analyst
+C0377,Git,Applied,HR Analyst
+C0378,Power BI,Rejected,Software Developer
+C0378,HTML/CSS,Rejected,Software Developer
+C0378,AWS,Rejected,Software Developer
+C0378,Java,Rejected,Software Developer
+C0379,SQL,Screening,Data Analyst
+C0379,Excel,Screening,Data Analyst
+C0379,Power BI,Screening,Data Analyst
+C0379,Machine Learning,Screening,Data Analyst
+C0379,Java,Screening,Data Analyst
+C0379,AWS,Screening,Data Analyst
+C0380,Python,Rejected,Data Scientist
+C0380,Statistics,Rejected,Data Scientist
+C0380,Machine Learning,Rejected,Data Scientist
+C0380,SQL,Rejected,Data Scientist
+C0380,Communication,Rejected,Data Scientist
+C0381,Python,Rejected,Data Scientist
+C0381,Statistics,Rejected,Data Scientist
+C0381,Machine Learning,Rejected,Data Scientist
+C0381,Java,Rejected,Data Scientist
+C0381,SQL,Rejected,Data Scientist
+C0381,Git,Rejected,Data Scientist
+C0382,Tableau,Rejected,QA Engineer
+C0382,Machine Learning,Rejected,QA Engineer
+C0382,AWS,Rejected,QA Engineer
+C0382,Java,Rejected,QA Engineer
+C0383,Python,Rejected,Data Scientist
+C0383,Statistics,Rejected,Data Scientist
+C0383,Machine Learning,Rejected,Data Scientist
+C0383,Communication,Rejected,Data Scientist
+C0383,Tableau,Rejected,Data Scientist
+C0383,Excel,Rejected,Data Scientist
+C0384,SQL,Shortlisted,Data Analyst
+C0384,Excel,Shortlisted,Data Analyst
+C0384,Power BI,Shortlisted,Data Analyst
+C0384,Communication,Shortlisted,Data Analyst
+C0384,AWS,Shortlisted,Data Analyst
+C0384,Machine Learning,Shortlisted,Data Analyst
+C0385,Python,Rejected,Data Scientist
+C0385,Statistics,Rejected,Data Scientist
+C0385,Machine Learning,Rejected,Data Scientist
+C0385,AWS,Rejected,Data Scientist
+C0385,SQL,Rejected,Data Scientist
+C0385,Communication,Rejected,Data Scientist
+C0386,Java,Selected,Business Analyst
+C0386,HTML/CSS,Selected,Business Analyst
+C0386,Statistics,Selected,Business Analyst
+C0386,AWS,Selected,Business Analyst
+C0386,Tableau,Selected,Business Analyst
+C0387,Tableau,Interview,Business Analyst
+C0387,Java,Interview,Business Analyst
+C0387,Git,Interview,Business Analyst
+C0387,Statistics,Interview,Business Analyst
+C0388,SQL,Selected,Data Analyst
+C0388,Excel,Selected,Data Analyst
+C0388,Power BI,Selected,Data Analyst
+C0388,Git,Selected,Data Analyst
+C0388,Java,Selected,Data Analyst
+C0388,Communication,Selected,Data Analyst
+C0389,AWS,Rejected,Business Analyst
+C0389,Git,Rejected,Business Analyst
+C0389,Communication,Rejected,Business Analyst
+C0389,Tableau,Rejected,Business Analyst
+C0389,Machine Learning,Rejected,Business Analyst
+C0390,Python,Selected,Data Scientist
+C0390,Statistics,Selected,Data Scientist
+C0390,Machine Learning,Selected,Data Scientist
+C0390,Git,Selected,Data Scientist
+C0390,Tableau,Selected,Data Scientist
+C0390,Power BI,Selected,Data Scientist
+C0391,SQL,Interview,Data Analyst
+C0391,Excel,Interview,Data Analyst
+C0391,Power BI,Interview,Data Analyst
+C0391,Python,Interview,Data Analyst
+C0391,Tableau,Interview,Data Analyst
+C0391,AWS,Interview,Data Analyst
+C0392,Excel,Shortlisted,Business Analyst
+C0392,Statistics,Shortlisted,Business Analyst
+C0392,HTML/CSS,Shortlisted,Business Analyst
+C0392,SQL,Shortlisted,Business Analyst
+C0393,Statistics,Shortlisted,Business Analyst
+C0393,Machine Learning,Shortlisted,Business Analyst
+C0393,Excel,Shortlisted,Business Analyst
+C0393,HTML/CSS,Shortlisted,Business Analyst
+C0393,AWS,Shortlisted,Business Analyst
+C0394,Java,Rejected,HR Analyst
+C0394,Machine Learning,Rejected,HR Analyst
+C0394,Statistics,Rejected,HR Analyst
+C0394,Power BI,Rejected,HR Analyst
+C0394,Python,Rejected,HR Analyst
+C0395,Python,Selected,Data Scientist
+C0395,Statistics,Selected,Data Scientist
+C0395,Machine Learning,Selected,Data Scientist
+C0395,Java,Selected,Data Scientist
+C0395,Tableau,Selected,Data Scientist
+C0396,SQL,Selected,Business Analyst
+C0396,Statistics,Selected,Business Analyst
+C0396,Java,Selected,Business Analyst
+C0396,Power BI,Selected,Business Analyst
+C0397,Python,Selected,Software Developer
+C0397,Communication,Selected,Software Developer
+C0397,Power BI,Selected,Software Developer
+C0397,Statistics,Selected,Software Developer
+C0397,Tableau,Selected,Software Developer
+C0398,Python,Shortlisted,Data Scientist
+C0398,Statistics,Shortlisted,Data Scientist
+C0398,Machine Learning,Shortlisted,Data Scientist
+C0398,Git,Shortlisted,Data Scientist
+C0398,AWS,Shortlisted,Data Scientist
+C0399,Excel,Interview,Software Developer
+C0399,Python,Interview,Software Developer
+C0399,Tableau,Interview,Software Developer
+C0400,Power BI,Shortlisted,HR Analyst
+C0400,Java,Shortlisted,HR Analyst
+C0400,Communication,Shortlisted,HR Analyst
+C0400,Tableau,Shortlisted,HR Analyst
+C0400,Machine Learning,Shortlisted,HR Analyst
+C0400,Excel,Shortlisted,HR Analyst
+C0401,Statistics,Screening,Business Analyst
+C0401,Machine Learning,Screening,Business Analyst
+C0401,Excel,Screening,Business Analyst
+C0402,Python,Rejected,Data Scientist
+C0402,Statistics,Rejected,Data Scientist
+C0402,Machine Learning,Rejected,Data Scientist
+C0402,Power BI,Rejected,Data Scientist
+C0402,SQL,Rejected,Data Scientist
+C0402,Git,Rejected,Data Scientist
+C0403,Python,Interview,Data Scientist
+C0403,Statistics,Interview,Data Scientist
+C0403,Machine Learning,Interview,Data Scientist
+C0403,HTML/CSS,Interview,Data Scientist
+C0403,Git,Interview,Data Scientist
+C0404,Python,Rejected,HR Analyst
+C0404,Power BI,Rejected,HR Analyst
+C0404,Communication,Rejected,HR Analyst
+C0404,Java,Rejected,HR Analyst
+C0405,AWS,Shortlisted,QA Engineer
+C0405,Machine Learning,Shortlisted,QA Engineer
+C0405,HTML/CSS,Shortlisted,QA Engineer
+C0406,Git,Selected,Software Developer
+C0406,SQL,Selected,Software Developer
+C0406,HTML/CSS,Selected,Software Developer
+C0406,Java,Selected,Software Developer
+C0406,Excel,Selected,Software Developer
+C0407,Machine Learning,Selected,Software Developer
+C0407,Power BI,Selected,Software Developer
+C0407,SQL,Selected,Software Developer
+C0407,Communication,Selected,Software Developer
+C0407,Java,Selected,Software Developer
+C0408,Python,Rejected,Data Scientist
+C0408,Statistics,Rejected,Data Scientist
+C0408,Machine Learning,Rejected,Data Scientist
+C0408,Power BI,Rejected,Data Scientist
+C0408,AWS,Rejected,Data Scientist
+C0408,Excel,Rejected,Data Scientist
+C0409,SQL,Selected,Data Analyst
+C0409,Excel,Selected,Data Analyst
+C0409,Power BI,Selected,Data Analyst
+C0409,Machine Learning,Selected,Data Analyst
+C0409,Statistics,Selected,Data Analyst
+C0409,Communication,Selected,Data Analyst
+C0410,Power BI,Rejected,QA Engineer
+C0410,Statistics,Rejected,QA Engineer
+C0410,Machine Learning,Rejected,QA Engineer
+C0410,Git,Rejected,QA Engineer
+C0410,Excel,Rejected,QA Engineer
+C0410,Tableau,Rejected,QA Engineer
+C0411,SQL,Shortlisted,HR Analyst
+C0411,Excel,Shortlisted,HR Analyst
+C0411,Git,Shortlisted,HR Analyst
+C0412,Python,Screening,Data Scientist
+C0412,Statistics,Screening,Data Scientist
+C0412,Machine Learning,Screening,Data Scientist
+C0412,Git,Screening,Data Scientist
+C0412,Tableau,Screening,Data Scientist
+C0412,SQL,Screening,Data Scientist
+C0413,SQL,Selected,Data Analyst
+C0413,Excel,Selected,Data Analyst
+C0413,Power BI,Selected,Data Analyst
+C0413,Git,Selected,Data Analyst
+C0413,Java,Selected,Data Analyst
+C0413,Statistics,Selected,Data Analyst
+C0414,Statistics,Screening,QA Engineer
+C0414,Python,Screening,QA Engineer
+C0414,Git,Screening,QA Engineer
+C0414,Power BI,Screening,QA Engineer
+C0415,HTML/CSS,Applied,Software Developer
+C0415,Python,Applied,Software Developer
+C0415,AWS,Applied,Software Developer
+C0415,Java,Applied,Software Developer
+C0415,Machine Learning,Applied,Software Developer
+C0415,Statistics,Applied,Software Developer
+C0416,Git,Shortlisted,Software Developer
+C0416,Excel,Shortlisted,Software Developer
+C0416,Statistics,Shortlisted,Software Developer
+C0416,Machine Learning,Shortlisted,Software Developer
+C0416,Java,Shortlisted,Software Developer
+C0417,AWS,Rejected,Business Analyst
+C0417,Statistics,Rejected,Business Analyst
+C0417,Power BI,Rejected,Business Analyst
+C0417,Communication,Rejected,Business Analyst
+C0418,Tableau,Rejected,Business Analyst
+C0418,AWS,Rejected,Business Analyst
+C0418,SQL,Rejected,Business Analyst
+C0419,SQL,Applied,Data Analyst
+C0419,Excel,Applied,Data Analyst
+C0419,Power BI,Applied,Data Analyst
+C0419,HTML/CSS,Applied,Data Analyst
+C0419,Tableau,Applied,Data Analyst
+C0419,Statistics,Applied,Data Analyst
+C0420,SQL,Screening,Data Analyst
+C0420,Excel,Screening,Data Analyst
+C0420,Power BI,Screening,Data Analyst
+C0420,Java,Screening,Data Analyst
+C0420,AWS,Screening,Data Analyst
+C0420,Git,Screening,Data Analyst
+C0421,Machine Learning,Rejected,QA Engineer
+C0421,AWS,Rejected,QA Engineer
+C0421,Python,Rejected,QA Engineer
+C0421,Tableau,Rejected,QA Engineer
+C0422,SQL,Rejected,Data Analyst
+C0422,Excel,Rejected,Data Analyst
+C0422,Power BI,Rejected,Data Analyst
+C0422,Communication,Rejected,Data Analyst
+C0422,HTML/CSS,Rejected,Data Analyst
+C0422,Python,Rejected,Data Analyst
+C0423,Statistics,Screening,QA Engineer
+C0423,Power BI,Screening,QA Engineer
+C0423,Excel,Screening,QA Engineer
+C0423,SQL,Screening,QA Engineer
+C0423,Communication,Screening,QA Engineer
+C0424,Java,Interview,Software Developer
+C0424,Python,Interview,Software Developer
+C0424,Machine Learning,Interview,Software Developer
+C0424,SQL,Interview,Software Developer
+C0425,SQL,Rejected,Data Analyst
+C0425,Excel,Rejected,Data Analyst
+C0425,Power BI,Rejected,Data Analyst
+C0425,Machine Learning,Rejected,Data Analyst
+C0425,Statistics,Rejected,Data Analyst
+C0425,HTML/CSS,Rejected,Data Analyst
+C0426,Java,Interview,QA Engineer
+C0426,Git,Interview,QA Engineer
+C0426,AWS,Interview,QA Engineer
+C0426,Python,Interview,QA Engineer
+C0426,Statistics,Interview,QA Engineer
+C0426,HTML/CSS,Interview,QA Engineer
+C0427,Tableau,Rejected,Business Analyst
+C0427,Excel,Rejected,Business Analyst
+C0427,Java,Rejected,Business Analyst
+C0428,Git,Rejected,QA Engineer
+C0428,Java,Rejected,QA Engineer
+C0428,Excel,Rejected,QA Engineer
+C0428,Python,Rejected,QA Engineer
+C0429,Java,Selected,Software Developer
+C0429,Python,Selected,Software Developer
+C0429,Tableau,Selected,Software Developer
+C0430,Statistics,Rejected,Software Developer
+C0430,Machine Learning,Rejected,Software Developer
+C0430,AWS,Rejected,Software Developer
+C0430,Excel,Rejected,Software Developer
+C0430,SQL,Rejected,Software Developer
+C0431,SQL,Rejected,Business Analyst
+C0431,Machine Learning,Rejected,Business Analyst
+C0431,HTML/CSS,Rejected,Business Analyst
+C0431,Python,Rejected,Business Analyst
+C0431,Communication,Rejected,Business Analyst
+C0432,SQL,Shortlisted,Data Analyst
+C0432,Excel,Shortlisted,Data Analyst
+C0432,Power BI,Shortlisted,Data Analyst
+C0432,Communication,Shortlisted,Data Analyst
+C0432,Statistics,Shortlisted,Data Analyst
+C0432,Python,Shortlisted,Data Analyst
+C0433,SQL,Screening,Software Developer
+C0433,Power BI,Screening,Software Developer
+C0433,Statistics,Screening,Software Developer
+C0434,Python,Interview,Data Scientist
+C0434,Statistics,Interview,Data Scientist
+C0434,Machine Learning,Interview,Data Scientist
+C0434,Java,Interview,Data Scientist
+C0434,Git,Interview,Data Scientist
+C0434,Tableau,Interview,Data Scientist
+C0435,Python,Rejected,Data Scientist
+C0435,Statistics,Rejected,Data Scientist
+C0435,Machine Learning,Rejected,Data Scientist
+C0435,Excel,Rejected,Data Scientist
+C0435,Java,Rejected,Data Scientist
+C0435,Communication,Rejected,Data Scientist
+C0436,Communication,Rejected,QA Engineer
+C0436,Tableau,Rejected,QA Engineer
+C0436,AWS,Rejected,QA Engineer
+C0436,Java,Rejected,QA Engineer
+C0437,Excel,Rejected,Software Developer
+C0437,Tableau,Rejected,Software Developer
+C0437,Statistics,Rejected,Software Developer
+C0437,HTML/CSS,Rejected,Software Developer
+C0438,Excel,Interview,HR Analyst
+C0438,Java,Interview,HR Analyst
+C0438,HTML/CSS,Interview,HR Analyst
+C0439,Python,Screening,Data Scientist
+C0439,Statistics,Screening,Data Scientist
+C0439,Machine Learning,Screening,Data Scientist
+C0439,Excel,Screening,Data Scientist
+C0439,Power BI,Screening,Data Scientist
+C0439,HTML/CSS,Screening,Data Scientist
+C0440,Java,Selected,QA Engineer
+C0440,Python,Selected,QA Engineer
+C0440,Machine Learning,Selected,QA Engineer
+C0441,Machine Learning,Screening,HR Analyst
+C0441,Excel,Screening,HR Analyst
+C0441,Git,Screening,HR Analyst
+C0441,Power BI,Screening,HR Analyst
+C0441,Statistics,Screening,HR Analyst
+C0441,SQL,Screening,HR Analyst
+C0442,Python,Rejected,Business Analyst
+C0442,Excel,Rejected,Business Analyst
+C0442,Machine Learning,Rejected,Business Analyst
+C0442,AWS,Rejected,Business Analyst
+C0443,HTML/CSS,Interview,Software Developer
+C0443,Java,Interview,Software Developer
+C0443,Communication,Interview,Software Developer
+C0443,Statistics,Interview,Software Developer
+C0443,SQL,Interview,Software Developer
+C0443,Tableau,Interview,Software Developer
+C0444,SQL,Interview,Data Analyst
+C0444,Excel,Interview,Data Analyst
+C0444,Power BI,Interview,Data Analyst
+C0444,Statistics,Interview,Data Analyst
+C0444,Git,Interview,Data Analyst
+C0444,Tableau,Interview,Data Analyst
+C0445,HTML/CSS,Screening,Business Analyst
+C0445,Statistics,Screening,Business Analyst
+C0445,Excel,Screening,Business Analyst
+C0446,SQL,Rejected,Data Analyst
+C0446,Excel,Rejected,Data Analyst
+C0446,Power BI,Rejected,Data Analyst
+C0446,Communication,Rejected,Data Analyst
+C0446,HTML/CSS,Rejected,Data Analyst
+C0446,Java,Rejected,Data Analyst
+C0447,Java,Selected,QA Engineer
+C0447,Git,Selected,QA Engineer
+C0447,Excel,Selected,QA Engineer
+C0447,Python,Selected,QA Engineer
+C0447,Statistics,Selected,QA Engineer
+C0448,SQL,Applied,Data Analyst
+C0448,Excel,Applied,Data Analyst
+C0448,Power BI,Applied,Data Analyst
+C0448,Communication,Applied,Data Analyst
+C0448,Statistics,Applied,Data Analyst
+C0448,HTML/CSS,Applied,Data Analyst
+C0449,HTML/CSS,Screening,QA Engineer
+C0449,SQL,Screening,QA Engineer
+C0449,Communication,Screening,QA Engineer
+C0449,Tableau,Screening,QA Engineer
+C0450,SQL,Shortlisted,Business Analyst
+C0450,AWS,Shortlisted,Business Analyst
+C0450,Tableau,Shortlisted,Business Analyst
+C0450,HTML/CSS,Shortlisted,Business Analyst
+C0451,Power BI,Interview,QA Engineer
+C0451,AWS,Interview,QA Engineer
+C0451,Machine Learning,Interview,QA Engineer
+C0451,Git,Interview,QA Engineer
+C0452,AWS,Rejected,QA Engineer
+C0452,Git,Rejected,QA Engineer
+C0452,Statistics,Rejected,QA Engineer
+C0452,Power BI,Rejected,QA Engineer
+C0452,SQL,Rejected,QA Engineer
+C0453,Java,Rejected,HR Analyst
+C0453,Python,Rejected,HR Analyst
+C0453,SQL,Rejected,HR Analyst
+C0453,Git,Rejected,HR Analyst
+C0453,Communication,Rejected,HR Analyst
+C0454,SQL,Rejected,QA Engineer
+C0454,Python,Rejected,QA Engineer
+C0454,Tableau,Rejected,QA Engineer
+C0454,Java,Rejected,QA Engineer
+C0454,Statistics,Rejected,QA Engineer
+C0455,Python,Interview,Data Scientist
+C0455,Statistics,Interview,Data Scientist
+C0455,Machine Learning,Interview,Data Scientist
+C0455,HTML/CSS,Interview,Data Scientist
+C0455,Tableau,Interview,Data Scientist
+C0455,Java,Interview,Data Scientist
+C0456,Machine Learning,Selected,HR Analyst
+C0456,AWS,Selected,HR Analyst
+C0456,Tableau,Selected,HR Analyst
+C0457,Statistics,Selected,Business Analyst
+C0457,Git,Selected,Business Analyst
+C0457,Machine Learning,Selected,Business Analyst
+C0457,AWS,Selected,Business Analyst
+C0457,Excel,Selected,Business Analyst
+C0457,Tableau,Selected,Business Analyst
+C0458,SQL,Screening,Data Analyst
+C0458,Excel,Screening,Data Analyst
+C0458,Power BI,Screening,Data Analyst
+C0458,AWS,Screening,Data Analyst
+C0458,Communication,Screening,Data Analyst
+C0458,Git,Screening,Data Analyst
+C0459,SQL,Rejected,Data Analyst
+C0459,Excel,Rejected,Data Analyst
+C0459,Power BI,Rejected,Data Analyst
+C0459,Tableau,Rejected,Data Analyst
+C0459,HTML/CSS,Rejected,Data Analyst
+C0459,Statistics,Rejected,Data Analyst
+C0460,SQL,Applied,Data Analyst
+C0460,Excel,Applied,Data Analyst
+C0460,Power BI,Applied,Data Analyst
+C0460,Java,Applied,Data Analyst
+C0461,Python,Shortlisted,Data Scientist
+C0461,Statistics,Shortlisted,Data Scientist
+C0461,Machine Learning,Shortlisted,Data Scientist
+C0461,Git,Shortlisted,Data Scientist
+C0461,Java,Shortlisted,Data Scientist
+C0462,Statistics,Rejected,HR Analyst
+C0462,HTML/CSS,Rejected,HR Analyst
+C0462,SQL,Rejected,HR Analyst
+C0462,Power BI,Rejected,HR Analyst
+C0462,Java,Rejected,HR Analyst
+C0463,AWS,Shortlisted,Business Analyst
+C0463,HTML/CSS,Shortlisted,Business Analyst
+C0463,Communication,Shortlisted,Business Analyst
+C0463,Excel,Shortlisted,Business Analyst
+C0464,Python,Interview,HR Analyst
+C0464,Machine Learning,Interview,HR Analyst
+C0464,Power BI,Interview,HR Analyst
+C0464,Java,Interview,HR Analyst
+C0464,Git,Interview,HR Analyst
+C0464,Communication,Interview,HR Analyst
+C0465,Machine Learning,Rejected,Software Developer
+C0465,Statistics,Rejected,Software Developer
+C0465,SQL,Rejected,Software Developer
+C0466,Java,Applied,Software Developer
+C0466,Excel,Applied,Software Developer
+C0466,Python,Applied,Software Developer
+C0466,Statistics,Applied,Software Developer
+C0466,Git,Applied,Software Developer
+C0467,Python,Shortlisted,Data Scientist
+C0467,Statistics,Shortlisted,Data Scientist
+C0467,Machine Learning,Shortlisted,Data Scientist
+C0467,Java,Shortlisted,Data Scientist
+C0467,SQL,Shortlisted,Data Scientist
+C0468,SQL,Selected,Data Analyst
+C0468,Excel,Selected,Data Analyst
+C0468,Power BI,Selected,Data Analyst
+C0468,HTML/CSS,Selected,Data Analyst
+C0468,Tableau,Selected,Data Analyst
+C0468,AWS,Selected,Data Analyst
+C0469,Power BI,Rejected,Business Analyst
+C0469,Statistics,Rejected,Business Analyst
+C0469,Java,Rejected,Business Analyst
+C0470,Tableau,Rejected,Software Developer
+C0470,AWS,Rejected,Software Developer
+C0470,Java,Rejected,Software Developer
+C0471,Communication,Rejected,Software Developer
+C0471,SQL,Rejected,Software Developer
+C0471,Python,Rejected,Software Developer
+C0472,Power BI,Applied,HR Analyst
+C0472,Git,Applied,HR Analyst
+C0472,Statistics,Applied,HR Analyst
+C0472,Python,Applied,HR Analyst
+C0472,Machine Learning,Applied,HR Analyst
+C0473,Machine Learning,Shortlisted,HR Analyst
+C0473,Power BI,Shortlisted,HR Analyst
+C0473,Git,Shortlisted,HR Analyst
+C0473,Excel,Shortlisted,HR Analyst
+C0473,Tableau,Shortlisted,HR Analyst
+C0473,Statistics,Shortlisted,HR Analyst
+C0474,Java,Screening,Business Analyst
+C0474,Machine Learning,Screening,Business Analyst
+C0474,Git,Screening,Business Analyst
+C0475,Java,Rejected,QA Engineer
+C0475,Statistics,Rejected,QA Engineer
+C0475,Python,Rejected,QA Engineer
+C0476,Python,Shortlisted,Data Scientist
+C0476,Statistics,Shortlisted,Data Scientist
+C0476,Machine Learning,Shortlisted,Data Scientist
+C0476,Communication,Shortlisted,Data Scientist
+C0476,Java,Shortlisted,Data Scientist
+C0477,Python,Applied,Data Scientist
+C0477,Statistics,Applied,Data Scientist
+C0477,Machine Learning,Applied,Data Scientist
+C0477,Git,Applied,Data Scientist
+C0477,HTML/CSS,Applied,Data Scientist
+C0478,Communication,Screening,Business Analyst
+C0478,Python,Screening,Business Analyst
+C0478,AWS,Screening,Business Analyst
+C0478,Git,Screening,Business Analyst
+C0478,HTML/CSS,Screening,Business Analyst
+C0479,SQL,Rejected,Data Analyst
+C0479,Excel,Rejected,Data Analyst
+C0479,Power BI,Rejected,Data Analyst
+C0479,Git,Rejected,Data Analyst
+C0479,HTML/CSS,Rejected,Data Analyst
+C0480,Python,Interview,Data Scientist
+C0480,Statistics,Interview,Data Scientist
+C0480,Machine Learning,Interview,Data Scientist
+C0480,Tableau,Interview,Data Scientist
+C0480,AWS,Interview,Data Scientist
+C0480,HTML/CSS,Interview,Data Scientist
+C0481,Java,Rejected,QA Engineer
+C0481,Statistics,Rejected,QA Engineer
+C0481,SQL,Rejected,QA Engineer
+C0482,SQL,Applied,Data Analyst
+C0482,Excel,Applied,Data Analyst
+C0482,Power BI,Applied,Data Analyst
+C0482,HTML/CSS,Applied,Data Analyst
+C0482,AWS,Applied,Data Analyst
+C0482,Communication,Applied,Data Analyst
+C0483,Java,Interview,HR Analyst
+C0483,Communication,Interview,HR Analyst
+C0483,Excel,Interview,HR Analyst
+C0483,Tableau,Interview,HR Analyst
+C0483,AWS,Interview,HR Analyst
+C0483,Python,Interview,HR Analyst
+C0484,Excel,Selected,Software Developer
+C0484,Git,Selected,Software Developer
+C0484,Communication,Selected,Software Developer
+C0485,Communication,Screening,QA Engineer
+C0485,Java,Screening,QA Engineer
+C0485,Power BI,Screening,QA Engineer
+C0485,Excel,Screening,QA Engineer
+C0485,HTML/CSS,Screening,QA Engineer
+C0485,Tableau,Screening,QA Engineer
+C0486,SQL,Screening,HR Analyst
+C0486,HTML/CSS,Screening,HR Analyst
+C0486,AWS,Screening,HR Analyst
+C0486,Machine Learning,Screening,HR Analyst
+C0486,Java,Screening,HR Analyst
+C0487,Machine Learning,Rejected,HR Analyst
+C0487,Statistics,Rejected,HR Analyst
+C0487,Python,Rejected,HR Analyst
+C0487,Git,Rejected,HR Analyst
+C0487,AWS,Rejected,HR Analyst
+C0488,Machine Learning,Shortlisted,HR Analyst
+C0488,HTML/CSS,Shortlisted,HR Analyst
+C0488,Statistics,Shortlisted,HR Analyst
+C0489,Python,Rejected,Data Scientist
+C0489,Statistics,Rejected,Data Scientist
+C0489,Machine Learning,Rejected,Data Scientist
+C0489,HTML/CSS,Rejected,Data Scientist
+C0489,AWS,Rejected,Data Scientist
+C0489,Tableau,Rejected,Data Scientist
+C0490,Statistics,Selected,HR Analyst
+C0490,Python,Selected,HR Analyst
+C0490,Tableau,Selected,HR Analyst
+C0490,AWS,Selected,HR Analyst
+C0491,Git,Shortlisted,Business Analyst
+C0491,Machine Learning,Shortlisted,Business Analyst
+C0491,Java,Shortlisted,Business Analyst
+C0491,Excel,Shortlisted,Business Analyst
+C0492,Python,Shortlisted,Data Scientist
+C0492,Statistics,Shortlisted,Data Scientist
+C0492,Machine Learning,Shortlisted,Data Scientist
+C0492,AWS,Shortlisted,Data Scientist
+C0492,Excel,Shortlisted,Data Scientist
+C0492,Communication,Shortlisted,Data Scientist
+C0493,Git,Interview,HR Analyst
+C0493,Tableau,Interview,HR Analyst
+C0493,Python,Interview,HR Analyst
+C0494,Python,Interview,Data Scientist
+C0494,Statistics,Interview,Data Scientist
+C0494,Machine Learning,Interview,Data Scientist
+C0494,Communication,Interview,Data Scientist
+C0494,Git,Interview,Data Scientist
+C0494,HTML/CSS,Interview,Data Scientist
+C0495,SQL,Rejected,Data Analyst
+C0495,Excel,Rejected,Data Analyst
+C0495,Power BI,Rejected,Data Analyst
+C0495,Python,Rejected,Data Analyst
+C0495,Statistics,Rejected,Data Analyst
+C0495,Java,Rejected,Data Analyst
+C0496,Machine Learning,Rejected,Business Analyst
+C0496,Git,Rejected,Business Analyst
+C0496,Power BI,Rejected,Business Analyst
+C0496,AWS,Rejected,Business Analyst
+C0496,Java,Rejected,Business Analyst
+C0496,HTML/CSS,Rejected,Business Analyst
+C0497,Git,Screening,HR Analyst
+C0497,Machine Learning,Screening,HR Analyst
+C0497,Java,Screening,HR Analyst
+C0498,AWS,Rejected,Business Analyst
+C0498,Git,Rejected,Business Analyst
+C0498,Power BI,Rejected,Business Analyst
+C0499,Git,Rejected,HR Analyst
+C0499,HTML/CSS,Rejected,HR Analyst
+C0499,AWS,Rejected,HR Analyst
+C0499,Excel,Rejected,HR Analyst
+C0499,Python,Rejected,HR Analyst
+C0499,Java,Rejected,HR Analyst
+C0500,Python,Shortlisted,Data Scientist
+C0500,Statistics,Shortlisted,Data Scientist
+C0500,Machine Learning,Shortlisted,Data Scientist
+C0500,HTML/CSS,Shortlisted,Data Scientist
+C0500,Git,Shortlisted,Data Scientist
+C0500,Java,Shortlisted,Data Scientist

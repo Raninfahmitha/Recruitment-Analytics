@@ -1,0 +1,8 @@
+Total Candidates = DISTINCTCOUNT(Candidates[CandidateID])
+Shortlisted Candidates = CALCULATE([Total Candidates], Candidates[Shortlisted] = TRUE())
+Selected Candidates = CALCULATE([Total Candidates], Candidates[Status] = "Selected")
+Shortlisting Rate = DIVIDE([Shortlisted Candidates], [Total Candidates], 0)
+Selection Rate = DIVIDE([Selected Candidates], [Total Candidates], 0)
+Average Experience = AVERAGE(Candidates[ExperienceYears])
+Average Resume Score = AVERAGE(Candidates[ResumeScore])
+Average Time To Hire = CALCULATE(AVERAGE(Candidates[TimeToHireDays]), Candidates[Status] = "Selected")
